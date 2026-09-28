@@ -1,0 +1,15 @@
+{
+"Age_of_Civilizations": "Data",
+"Data_Scenario_Info": [
+	{
+		"Name": "Sengoku",
+		"Author": "Lukasz Jakowski",
+		"Wiki": "Sengoku_period",
+		"Civs": 29,
+		"Age": 3,
+		"Year": 1467,
+		"Month": 5,
+		"Day": 25
+	}
+]
+}

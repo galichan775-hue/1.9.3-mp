@@ -1,0 +1,376 @@
+{
+	cities:
+	[
+		{
+			Name: "Amsterdam",
+			x: 914,
+			y: 892
+		},
+		{
+			Name: "Ankara",
+			x: 1596,
+			y: 1320
+		},
+		{
+			Name: "San Marino",
+			x: 1098,
+			y: 1191
+		},
+		{
+			Name: "Vaduz",
+			x: 1033,
+			y: 1086
+		},
+		{
+			Name: "Baghdad",
+			x: 1874,
+			y: 1518
+		},
+		{
+			Name: "AndorralaVella",
+			x: 830,
+			y: 1236
+		},
+		{
+			Name: "Belgrade",
+			x: 1294,
+			y: 1166
+		},
+		{
+			Name: "Berlin",
+			x: 1124,
+			y: 892
+		},
+		{
+			Name: "Brussels",
+			x: 902,
+			y: 954
+		},
+		{
+			Name: "Budapest",
+			x: 1260,
+			y: 1074
+		},
+		{
+			Name: "Cairo",
+			x: 1564,
+			y: 1620
+		},
+		{
+			Name: "Damascus",
+			x: 1682,
+			y: 1514
+		},
+		{
+			Name: "Tallinn",
+			x: 1402,
+			y: 612
+		},
+		{
+			Name: "Helsinki",
+			x: 1406,
+			y: 576
+		},
+		{
+			Name: "Riga",
+			x: 1384,
+			y: 712
+		},
+		{
+			Name: "Cardiff",
+			x: 714,
+			y: 924
+		},
+		{
+			Name: "Belfast",
+			x: 652,
+			y: 810
+		},
+		{
+			Name: "Dublin",
+			x: 646,
+			y: 858
+		},
+		{
+			Name: "Yerevan",
+			x: 1880,
+			y: 1312
+		},
+		{
+			Name: "Baku",
+			x: 2016,
+			y: 1304
+		},
+		{
+			Name: "Kiev",
+			x: 1536,
+			y: 970
+		},
+		{
+			Name: "Lisbon",
+			x: 576,
+			y: 1356
+		},
+		{
+			Name: "London",
+			x: 790,
+			y: 920
+		},
+		{
+			Name: "Madrid",
+			x: 700,
+			y: 1302
+		},
+		{
+			Name: "Minsk",
+			x: 1468,
+			y: 838
+		},
+		{
+			Name: "Moscow",
+			x: 1714,
+			y: 762
+		},
+		{
+			Name: "Oslo",
+			x: 1062,
+			y: 594
+		},
+		{
+			Name: "Paris",
+			x: 854,
+			y: 1026
+		},
+		{
+			Name: "Prague",
+			x: 1148,
+			y: 982
+		},
+		{
+			Name: "Riyadh",
+			x: 1934,
+			y: 1776
+		},
+		{
+			Name: "Rome",
+			x: 1100,
+			y: 1258
+		},
+		{
+			Name: "Sofia",
+			x: 1366,
+			y: 1234
+		},
+		{
+			Name: "Stockholm",
+			x: 1240,
+			y: 616
+		},
+		{
+			Name: "Vienna",
+			x: 1194,
+			y: 1050
+		},
+		{
+			Name: "Vilnius",
+			x: 1412,
+			y: 806
+		},
+		{
+			Name: "Warsaw",
+			x: 1304,
+			y: 900
+		},
+		{
+			Name: "Edynburg",
+			x: 724,
+			y: 756
+		},
+		{
+			Name: "Rabat",
+			x: 634,
+			y: 1500
+		},
+		{
+			Name: "Tunis",
+			x: 1042,
+			y: 1420
+		},
+		{
+			Name: "Valletta",
+			x: 1142,
+			y: 1440
+		},
+		{
+			Name: "Athens",
+			x: 1376,
+			y: 1380
+		},
+		{
+			Name: "Tirana",
+			x: 1284,
+			y: 1280
+		},
+		{
+			Name: "Skopje",
+			x: 1320,
+			y: 1254
+		},
+		{
+			Name: "Sarajevo",
+			x: 1246,
+			y: 1196
+		},
+		{
+			Name: "Podgorica",
+			x: 1266,
+			y: 1242
+		},
+		{
+			Name: "Zagreb",
+			x: 1186,
+			y: 1132
+		},
+		{
+			Name: "Chisinau",
+			x: 1500,
+			y: 1090
+		},
+		{
+			Name: "Bucharest",
+			x: 1434,
+			y: 1178
+		},
+		{
+			Name: "LuxembourgCity",
+			x: 944,
+			y: 1000
+		},
+		{
+			Name: "Tbilisi",
+			x: 1890,
+			y: 1264
+		},
+		{
+			Name: "Nicosia",
+			x: 1612,
+			y: 1470
+		},
+		{
+			Name: "Nicosia",
+			x: 1616,
+			y: 1466
+		},
+		{
+			Name: "Reykjavík",
+			x: 260,
+			y: 410
+		},
+		{
+			Name: "Muscat",
+			x: 2222,
+			y: 1810
+		},
+		{
+			Name: "Ashgabat",
+			x: 2218,
+			y: 1386
+		},
+		{
+			Name: "Tehran",
+			x: 2048,
+			y: 1458
+		},
+		{
+			Name: "Algiers",
+			x: 872,
+			y: 1424
+		},
+		{
+			Name: "Tripoli",
+			x: 1112,
+			y: 1542
+		},
+		{
+			Name: "Ljubljana",
+			x: 1150,
+			y: 1124
+		},
+		{
+			Name: "Bratislava",
+			x: 1216,
+			y: 1052
+		},
+		{
+			Name: "AbuDhabi",
+			x: 2130,
+			y: 1786
+		},
+		{
+			Name: "Copenhagen",
+			x: 1102,
+			y: 764
+		},
+		{
+			Name: "Manama",
+			x: 2032,
+			y: 1730
+		},
+		{
+			Name: "Beirut",
+			x: 1666,
+			y: 1504
+		},
+		{
+			Name: "Gibraltar",
+			x: 662,
+			y: 1438
+		},
+		{
+			Name: "Douglas",
+			x: 686,
+			y: 822
+		},
+		{
+			Name: "Tórshavn",
+			x: 628,
+			y: 490
+		},
+		{
+			Name: "Mariehamn",
+			x: 1280,
+			y: 584
+		},
+		{
+			Name: "SaintHelier",
+			x: 740,
+			y: 1006
+		},
+		{
+			Name: "Amman",
+			x: 1670,
+			y: 1564
+		},
+		{
+			Name: "Jerusalem",
+			x: 1654,
+			y: 1574
+		},
+		{
+			Name: "Doha",
+			x: 2056,
+			y: 1760
+		},
+		{
+			Name: "KuwaitCity",
+			x: 1964,
+			y: 1644
+		},
+		{
+			Name: "Laayoune",
+			x: 474,
+			y: 1704
+		},
+	],
+	name: Earth
+}

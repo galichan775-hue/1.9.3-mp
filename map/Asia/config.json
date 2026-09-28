@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "Asia",
+			Author: "Lukasz Jakowski",
+			BackgroundName: "Asia",
+			ContinentsPackage: "Earth6"
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 4431,
+			MapScale: 5,
+			WorldMap: false,
+			Scenario: "1605379618041emnugtvo",
+			Wiki: "Asia"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}

@@ -1,0 +1,2031 @@
+{
+	cities:
+	[
+		{
+			Name: "Alytus",
+			x: 1378,
+			y: 818
+		},
+		{
+			Name: "Umea",
+			x: 1292,
+			y: 418
+		},
+		{
+			Name: "Kotlas",
+			x: 1932,
+			y: 520
+		},
+		{
+			Name: "Solikamsk",
+			x: 2170,
+			y: 598
+		},
+		{
+			Name: "Kungur",
+			x: 2188,
+			y: 678
+		},
+		{
+			Name: "Glazov",
+			x: 2094,
+			y: 658
+		},
+		{
+			Name: "VelikyUstyug",
+			x: 1928,
+			y: 542
+		},
+		{
+			Name: "Tikhvin",
+			x: 1620,
+			y: 588
+		},
+		{
+			Name: "Uglich",
+			x: 1726,
+			y: 684
+		},
+		{
+			Name: "Rezekne",
+			x: 1462,
+			y: 732
+		},
+		{
+			Name: "Volkhov",
+			x: 1586,
+			y: 592
+		},
+		{
+			Name: "Kostomuksha",
+			x: 1536,
+			y: 386
+		},
+		{
+			Name: "Segezha",
+			x: 1626,
+			y: 400
+		},
+		{
+			Name: "Frolovo",
+			x: 1862,
+			y: 1006
+		},
+		{
+			Name: "Monchegorsk",
+			x: 1592,
+			y: 222
+		},
+		{
+			Name: "Apatity",
+			x: 1610,
+			y: 234
+		},
+		{
+			Name: "Borovichi",
+			x: 1618,
+			y: 652
+		},
+		{
+			Name: "VyshnyVolochyok",
+			x: 1632,
+			y: 684
+		},
+		{
+			Name: "Rostov",
+			x: 1752,
+			y: 702
+		},
+		{
+			Name: "Dubna",
+			x: 1698,
+			y: 720
+		},
+		{
+			Name: "Torzhok",
+			x: 1646,
+			y: 706
+		},
+		{
+			Name: "StarayaRussa",
+			x: 1554,
+			y: 666
+		},
+		{
+			Name: "Akhtubinsk",
+			x: 1916,
+			y: 1044
+		},
+		{
+			Name: "Kingisepp",
+			x: 1486,
+			y: 612
+		},
+		{
+			Name: "Slantsy",
+			x: 1478,
+			y: 628
+		},
+		{
+			Name: "Gatchina",
+			x: 1526,
+			y: 602
+		},
+		{
+			Name: "Sarov",
+			x: 1846,
+			y: 796
+		},
+		{
+			Name: "Klin",
+			x: 1694,
+			y: 744
+		},
+		{
+			Name: "Lyudinovo",
+			x: 1638,
+			y: 838
+		},
+		{
+			Name: "Vyborg",
+			x: 1502,
+			y: 556
+		},
+		{
+			Name: "Pugachyov",
+			x: 1992,
+			y: 910
+		},
+		{
+			Name: "Klintsy",
+			x: 1580,
+			y: 886
+		},
+		{
+			Name: "Buzuluk",
+			x: 2064,
+			y: 882
+		},
+		{
+			Name: "Borisoglebsk",
+			x: 1818,
+			y: 934
+		},
+		{
+			Name: "Pavlovsk",
+			x: 1770,
+			y: 972
+		},
+		{
+			Name: "Millerovo",
+			x: 1776,
+			y: 1048
+		},
+		{
+			Name: "Yeysk",
+			x: 1736,
+			y: 1092
+		},
+		{
+			Name: "Salsk",
+			x: 1808,
+			y: 1104
+		},
+		{
+			Name: "Kizlyar",
+			x: 1938,
+			y: 1194
+		},
+		{
+			Name: "Timashyovsk",
+			x: 1746,
+			y: 1126
+		},
+		{
+			Name: "Anapa",
+			x: 1712,
+			y: 1148
+		},
+		{
+			Name: "Serpukhov",
+			x: 1708,
+			y: 802
+		},
+		{
+			Name: "Shchyokino",
+			x: 1702,
+			y: 844
+		},
+		{
+			Name: "Mtsensk",
+			x: 1682,
+			y: 862
+		},
+		{
+			Name: "Jelec",
+			x: 1720,
+			y: 880
+		},
+		{
+			Name: "Beysehir",
+			x: 1570,
+			y: 1388
+		},
+		{
+			Name: "Nalchik",
+			x: 1860,
+			y: 1204
+		},
+		{
+			Name: "Badr",
+			x: 1740,
+			y: 1796
+		},
+		{
+			Name: "Budyonnovsk",
+			x: 1874,
+			y: 1156
+		},
+		{
+			Name: "Najafabad",
+			x: 2040,
+			y: 1554
+		},
+		{
+			Name: "Mobarakeh",
+			x: 2050,
+			y: 1562
+		},
+		{
+			Name: "Amarah",
+			x: 1946,
+			y: 1570
+		},
+		{
+			Name: "Ramadi",
+			x: 1852,
+			y: 1514
+		},
+		{
+			Name: "Kut",
+			x: 1920,
+			y: 1544
+		},
+		{
+			Name: "Bam",
+			x: 2204,
+			y: 1638
+		},
+		{
+			Name: "Bandar-eMahshahr",
+			x: 1998,
+			y: 1608
+		},
+		{
+			Name: "Armyansk",
+			x: 1626,
+			y: 1114
+		},
+		{
+			Name: "Zhanaozen",
+			x: 2088,
+			y: 1202
+		},
+		{
+			Name: "Ucar",
+			x: 1972,
+			y: 1294
+		},
+		{
+			Name: "Derbent",
+			x: 1972,
+			y: 1252
+		},
+		{
+			Name: "Khalkhal",
+			x: 1982,
+			y: 1392
+		},
+		{
+			Name: "Damavand",
+			x: 2062,
+			y: 1452
+		},
+		{
+			Name: "Hoseinan",
+			x: 2126,
+			y: 1474
+		},
+		{
+			Name: "Amol",
+			x: 2066,
+			y: 1430
+		},
+		{
+			Name: "Gonbad-eKavus",
+			x: 2140,
+			y: 1396
+		},
+		{
+			Name: "Mianeh",
+			x: 1964,
+			y: 1406
+		},
+		{
+			Name: "Lahijan",
+			x: 2014,
+			y: 1408
+		},
+		{
+			Name: "Ercis",
+			x: 1856,
+			y: 1346
+		},
+		{
+			Name: "Ardahan",
+			x: 1838,
+			y: 1284
+		},
+		{
+			Name: "Bataysk",
+			x: 1768,
+			y: 1084
+		},
+		{
+			Name: "Tikhoretsk",
+			x: 1788,
+			y: 1120
+		},
+		{
+			Name: "Ipatovo",
+			x: 1844,
+			y: 1128
+		},
+		{
+			Name: "Kurskaya",
+			x: 1880,
+			y: 1188
+		},
+		{
+			Name: "Ogre",
+			x: 1400,
+			y: 716
+		},
+		{
+			Name: "Jelgava",
+			x: 1376,
+			y: 724
+		},
+		{
+			Name: "Liepaja",
+			x: 1314,
+			y: 726
+		},
+		{
+			Name: "Ventspils",
+			x: 1328,
+			y: 694
+		},
+		{
+			Name: "Parnu",
+			x: 1398,
+			y: 654
+		},
+		{
+			Name: "Narva",
+			x: 1474,
+			y: 614
+		},
+		{
+			Name: "Kajaani",
+			x: 1468,
+			y: 400
+		},
+		{
+			Name: "Raahe",
+			x: 1396,
+			y: 380
+		},
+		{
+			Name: "Regen",
+			x: 1118,
+			y: 1026
+		},
+		{
+			Name: "Mulhouse",
+			x: 974,
+			y: 1068
+		},
+		{
+			Name: "Vidin",
+			x: 1350,
+			y: 1192
+		},
+		{
+			Name: "Cahul",
+			x: 1484,
+			y: 1130
+		},
+		{
+			Name: "Tübingen",
+			x: 1018,
+			y: 1042
+		},
+		{
+			Name: "Epinal",
+			x: 958,
+			y: 1050
+		},
+		{
+			Name: "Waren",
+			x: 1106,
+			y: 850
+		},
+		{
+			Name: "Cazin",
+			x: 1182,
+			y: 1156
+		},
+		{
+			Name: "Tarazona",
+			x: 756,
+			y: 1260
+		},
+		{
+			Name: "Angouleme",
+			x: 808,
+			y: 1138
+		},
+		{
+			Name: "Arezzo",
+			x: 1086,
+			y: 1206
+		},
+		{
+			Name: "Fujairah",
+			x: 2172,
+			y: 1766
+		},
+		{
+			Name: "Benavente",
+			x: 654,
+			y: 1258
+		},
+		{
+			Name: "Treviso",
+			x: 1096,
+			y: 1132
+		},
+		{
+			Name: "Newquay",
+			x: 678,
+			y: 958
+		},
+		{
+			Name: "Kirkwall",
+			x: 726,
+			y: 630
+		},
+		{
+			Name: "LaRoche-sur-Yon",
+			x: 760,
+			y: 1102
+		},
+		{
+			Name: "Oban",
+			x: 662,
+			y: 744
+		},
+		{
+			Name: "Mullingar",
+			x: 620,
+			y: 850
+		},
+		{
+			Name: "Sligo",
+			x: 590,
+			y: 824
+		},
+		{
+			Name: "Clonmel",
+			x: 614,
+			y: 890
+		},
+		{
+			Name: "Aberystwyth",
+			x: 700,
+			y: 890
+		},
+		{
+			Name: "Elvas",
+			x: 620,
+			y: 1350
+		},
+		{
+			Name: "CasteloBranco",
+			x: 612,
+			y: 1320
+		},
+		{
+			Name: "Bastia",
+			x: 1024,
+			y: 1232
+		},
+		{
+			Name: "Quba",
+			x: 1978,
+			y: 1274
+		},
+		{
+			Name: "Kamyaran",
+			x: 1934,
+			y: 1480
+		},
+		{
+			Name: "Kokkola",
+			x: 1360,
+			y: 420
+		},
+		{
+			Name: "Hameenlinna",
+			x: 1392,
+			y: 550
+		},
+		{
+			Name: "Pori",
+			x: 1330,
+			y: 526
+		},
+		{
+			Name: "Savonlinna",
+			x: 1496,
+			y: 510
+		},
+		{
+			Name: "Vaasa",
+			x: 1328,
+			y: 450
+		},
+		{
+			Name: "Mikkeli",
+			x: 1458,
+			y: 518
+		},
+		{
+			Name: "Joensuu",
+			x: 1518,
+			y: 478
+		},
+		{
+			Name: "Lappeenranta",
+			x: 1480,
+			y: 546
+		},
+		{
+			Name: "Lulea",
+			x: 1332,
+			y: 332
+		},
+		{
+			Name: "Vittangi",
+			x: 1320,
+			y: 228
+		},
+		{
+			Name: "Kristiansand",
+			x: 990,
+			y: 660
+		},
+		{
+			Name: "Ornskoldsvik",
+			x: 1250,
+			y: 444
+		},
+		{
+			Name: "Ostersund",
+			x: 1150,
+			y: 448
+		},
+		{
+			Name: "Tromso",
+			x: 1266,
+			y: 122
+		},
+		{
+			Name: "Steinkjer",
+			x: 1086,
+			y: 414
+		},
+		{
+			Name: "Molde",
+			x: 970,
+			y: 472
+		},
+		{
+			Name: "Alesund",
+			x: 942,
+			y: 486
+		},
+		{
+			Name: "Lillehammer",
+			x: 1050,
+			y: 544
+		},
+		{
+			Name: "Sundsvall",
+			x: 1218,
+			y: 486
+		},
+		{
+			Name: "Karlstad",
+			x: 1128,
+			y: 610
+		},
+		{
+			Name: "Helsingborg",
+			x: 1110,
+			y: 746
+		},
+		{
+			Name: "Varberg",
+			x: 1098,
+			y: 700
+		},
+		{
+			Name: "Karlskrona",
+			x: 1174,
+			y: 740
+		},
+		{
+			Name: "Kalmar",
+			x: 1194,
+			y: 724
+		},
+		{
+			Name: "Mazeikiai",
+			x: 1338,
+			y: 738
+		},
+		{
+			Name: "Panevezys",
+			x: 1386,
+			y: 764
+		},
+		{
+			Name: "Smarhon",
+			x: 1434,
+			y: 812
+		},
+		{
+			Name: "Slonim",
+			x: 1412,
+			y: 864
+		},
+		{
+			Name: "Nigde",
+			x: 1638,
+			y: 1380
+		},
+		{
+			Name: "Asmara",
+			x: 500,
+			y: 1718
+		},
+		{
+			Name: "Çanakkale",
+			x: 1446,
+			y: 1310
+		},
+		{
+			Name: "Akhisar",
+			x: 1470,
+			y: 1346
+		},
+		{
+			Name: "Kastamonu",
+			x: 1614,
+			y: 1274
+		},
+		{
+			Name: "Sabha",
+			x: 1140,
+			y: 1702
+		},
+		{
+			Name: "Giresun",
+			x: 1726,
+			y: 1288
+		},
+		{
+			Name: "Nalut",
+			x: 1062,
+			y: 1568
+		},
+		{
+			Name: "Waddan",
+			x: 1184,
+			y: 1646
+		},
+		{
+			Name: "Sirte",
+			x: 1196,
+			y: 1590
+		},
+		{
+			Name: "Ajdabiya",
+			x: 1286,
+			y: 1608
+		},
+		{
+			Name: "DakhlaOasis",
+			x: 1540,
+			y: 1758
+		},
+		{
+			Name: "Bawiti",
+			x: 1500,
+			y: 1672
+		},
+		{
+			Name: "Marina",
+			x: 1498,
+			y: 1599
+		},
+		{
+			Name: "RasGharib",
+			x: 1602,
+			y: 1670
+		},
+		{
+			Name: "Erzincan",
+			x: 1754,
+			y: 1322
+		},
+		{
+			Name: "Siirt",
+			x: 1820,
+			y: 1380
+		},
+		{
+			Name: "Kapan",
+			x: 1926,
+			y: 1340
+		},
+		{
+			Name: "Lankaran",
+			x: 1988,
+			y: 1354
+		},
+		{
+			Name: "Lamia",
+			x: 1342,
+			y: 1352
+		},
+		{
+			Name: "Kashmar",
+			x: 2220,
+			y: 1466
+		},
+		{
+			Name: "Semnan",
+			x: 2096,
+			y: 1458
+		},
+		{
+			Name: "Borujerd",
+			x: 1982,
+			y: 1512
+		},
+		{
+			Name: "Minab",
+			x: 2190,
+			y: 1706
+		},
+		{
+			Name: "Iranshahr",
+			x: 2276,
+			y: 1704
+		},
+		{
+			Name: "Yasuj",
+			x: 2056,
+			y: 1608
+		},
+		{
+			Name: "Izeh",
+			x: 2010,
+			y: 1570
+		},
+		{
+			Name: "Chabahar",
+			x: 2280,
+			y: 1754
+		},
+		{
+			Name: "Birjand",
+			x: 2238,
+			y: 1540
+		},
+		{
+			Name: "Agrinio",
+			x: 1320,
+			y: 1362
+		},
+		{
+			Name: "Shahrud",
+			x: 2134,
+			y: 1434
+		},
+		{
+			Name: "Kastoria",
+			x: 1312,
+			y: 1302
+		},
+		{
+			Name: "Meshginshahr",
+			x: 1954,
+			y: 1360
+		},
+		{
+			Name: "Miandoab",
+			x: 1914,
+			y: 1416
+		},
+		{
+			Name: "Haditha",
+			x: 1824,
+			y: 1494
+		},
+		{
+			Name: "Alexandroupoli",
+			x: 1422,
+			y: 1288
+		},
+		{
+			Name: "Çankırı",
+			x: 1612,
+			y: 1298
+		},
+		{
+			Name: "Kalamata",
+			x: 1332,
+			y: 1406
+		},
+		{
+			Name: "Sinjar",
+			x: 1814,
+			y: 1428
+		},
+		{
+			Name: "Rafha",
+			x: 1854,
+			y: 1626
+		},
+		{
+			Name: "Shirvan",
+			x: 1986,
+			y: 1318
+		},
+		{
+			Name: "Akhalkalaki",
+			x: 1856,
+			y: 1270
+		},
+		{
+			Name: "As-Suwayda",
+			x: 1692,
+			y: 1538
+		},
+		{
+			Name: "Hasakah",
+			x: 1788,
+			y: 1422
+		},
+		{
+			Name: "Agri",
+			x: 1842,
+			y: 1324
+		},
+		{
+			Name: "Kars",
+			x: 1844,
+			y: 1296
+		},
+		{
+			Name: "Bodrum",
+			x: 1466,
+			y: 1406
+		},
+		{
+			Name: "Sorgun",
+			x: 1650,
+			y: 1322
+		},
+		{
+			Name: "Merzifon",
+			x: 1654,
+			y: 1290
+		},
+		{
+			Name: "Artvin",
+			x: 1816,
+			y: 1280
+		},
+		{
+			Name: "ÚstínadLabem",
+			x: 1136,
+			y: 962
+		},
+		{
+			Name: "Szolnok",
+			x: 1286,
+			y: 1086
+		},
+		{
+			Name: "Poprad",
+			x: 1290,
+			y: 1022
+		},
+		{
+			Name: "BanskáBystrica",
+			x: 1260,
+			y: 1038
+		},
+		{
+			Name: "Pardubice",
+			x: 1178,
+			y: 984
+		},
+		{
+			Name: "Pula",
+			x: 1134,
+			y: 1154
+		},
+		{
+			Name: "Dubrownik",
+			x: 1236,
+			y: 1228
+		},
+		{
+			Name: "Tuzla",
+			x: 1248,
+			y: 1172
+		},
+		{
+			Name: "Trebinje",
+			x: 1238,
+			y: 1220
+		},
+		{
+			Name: "Subotica",
+			x: 1272,
+			y: 1122
+		},
+		{
+			Name: "Čačak",
+			x: 1282,
+			y: 1194
+		},
+		{
+			Name: "Alexandria",
+			x: 1410,
+			y: 1188
+		},
+		{
+			Name: "NoviPazar",
+			x: 1288,
+			y: 1216
+		},
+		{
+			Name: "Zaječar",
+			x: 1334,
+			y: 1190
+		},
+		{
+			Name: "Leskovac",
+			x: 1330,
+			y: 1224
+		},
+		{
+			Name: "Deva",
+			x: 1350,
+			y: 1124
+		},
+		{
+			Name: "Tulcea",
+			x: 1494,
+			y: 1150
+		},
+		{
+			Name: "Izmail",
+			x: 1496,
+			y: 1142
+		},
+		{
+			Name: "Dobrich",
+			x: 1472,
+			y: 1202
+		},
+		{
+			Name: "Sliven",
+			x: 1436,
+			y: 1232
+		},
+		{
+			Name: "Kardzhali",
+			x: 1410,
+			y: 1264
+		},
+		{
+			Name: "Blagoevgrad",
+			x: 1356,
+			y: 1254
+		},
+		{
+			Name: "Stip",
+			x: 1340,
+			y: 1264
+		},
+		{
+			Name: "Kicevo",
+			x: 1306,
+			y: 1268
+		},
+		{
+			Name: "Stargard",
+			x: 1162,
+			y: 858
+		},
+		{
+			Name: "Viborg",
+			x: 1028,
+			y: 732
+		},
+		{
+			Name: "Smiltene",
+			x: 1428,
+			y: 692
+		},
+		{
+			Name: "Neuruppin",
+			x: 1108,
+			y: 872
+		},
+		{
+			Name: "Haskovo",
+			x: 1414,
+			y: 1256
+		},
+		{
+			Name: "Wyszkow",
+			x: 1322,
+			y: 882
+		},
+		{
+			Name: "Veles",
+			x: 1328,
+			y: 1270
+		},
+		{
+			Name: "Chomutov",
+			x: 1122,
+			y: 970
+		},
+		{
+			Name: "Templin",
+			x: 1126,
+			y: 864
+		},
+		{
+			Name: "Nordhausen",
+			x: 1056,
+			y: 928
+		},
+		{
+			Name: "Liberec",
+			x: 1162,
+			y: 960
+		},
+		{
+			Name: "Ełk",
+			x: 1340,
+			y: 840
+		},
+		{
+			Name: "Ciechanów",
+			x: 1300,
+			y: 880
+		},
+		{
+			Name: "Piła",
+			x: 1202,
+			y: 864
+		},
+		{
+			Name: "Gniezno",
+			x: 1224,
+			y: 890
+		},
+		{
+			Name: "Siedlce",
+			x: 1334,
+			y: 906
+		},
+		{
+			Name: "BiałaPodlaska",
+			x: 1360,
+			y: 912
+		},
+		{
+			Name: "Łomża",
+			x: 1334,
+			y: 864
+		},
+		{
+			Name: "Koszalin",
+			x: 1190,
+			y: 826
+		},
+		{
+			Name: "Suwałki",
+			x: 1354,
+			y: 830
+		},
+		{
+			Name: "Krosno",
+			x: 1324,
+			y: 1000
+		},
+		{
+			Name: "Przemyśl",
+			x: 1346,
+			y: 996
+		},
+		{
+			Name: "Genk",
+			x: 926,
+			y: 948
+		},
+		{
+			Name: "Bayreuth",
+			x: 1074,
+			y: 992
+		},
+		{
+			Name: "Kempten",
+			x: 1046,
+			y: 1066
+		},
+		{
+			Name: "Weiden",
+			x: 1090,
+			y: 998
+		},
+		{
+			Name: "Cottbus",
+			x: 1142,
+			y: 920
+		},
+		{
+			Name: "Straubing",
+			x: 1102,
+			y: 1028
+		},
+		{
+			Name: "Greifswald",
+			x: 1120,
+			y: 830
+		},
+		{
+			Name: "Schwedt",
+			x: 1144,
+			y: 868
+		},
+		{
+			Name: "Lüneburg",
+			x: 1048,
+			y: 862
+		},
+		{
+			Name: "Siegen",
+			x: 988,
+			y: 952
+		},
+		{
+			Name: "Brilon",
+			x: 1000,
+			y: 934
+		},
+		{
+			Name: "Meppen",
+			x: 974,
+			y: 882
+		},
+		{
+			Name: "Aosta",
+			x: 972,
+			y: 1134
+		},
+		{
+			Name: "Chania",
+			x: 1382,
+			y: 1456
+		},
+		{
+			Name: "Dole",
+			x: 930,
+			y: 1088
+		},
+		{
+			Name: "Khasab",
+			x: 2172,
+			y: 1734
+		},
+		{
+			Name: "Mardin",
+			x: 1792,
+			y: 1396
+		},
+		{
+			Name: "Auch",
+			x: 804,
+			y: 1200
+		},
+		{
+			Name: "Mus",
+			x: 1816,
+			y: 1358
+		},
+		{
+			Name: "Bingol",
+			x: 1788,
+			y: 1350
+		},
+		{
+			Name: "Sarab",
+			x: 1954,
+			y: 1386
+		},
+		{
+			Name: "Beylagan",
+			x: 1960,
+			y: 1322
+		},
+		{
+			Name: "Sion",
+			x: 978,
+			y: 1120
+		},
+		{
+			Name: "Eisenstadt",
+			x: 1198,
+			y: 1064
+		},
+		{
+			Name: "Berane",
+			x: 1282,
+			y: 1228
+		},
+		{
+			Name: "Eilat",
+			x: 1648,
+			y: 1638
+		},
+		{
+			Name: "Serres",
+			x: 1370,
+			y: 1278
+		},
+		{
+			Name: "Kahramanmaras",
+			x: 1694,
+			y: 1380
+		},
+		{
+			Name: "Mytilene",
+			x: 1442,
+			y: 1344
+		},
+		{
+			Name: "Aydın",
+			x: 1480,
+			y: 1390
+		},
+		{
+			Name: "Anamur",
+			x: 1594,
+			y: 1432
+		},
+		{
+			Name: "Karaman",
+			x: 1602,
+			y: 1400
+		},
+		{
+			Name: "Pisek",
+			x: 1140,
+			y: 1010
+		},
+		{
+			Name: "Klatovy",
+			x: 1120,
+			y: 1010
+		},
+		{
+			Name: "Libourne",
+			x: 788,
+			y: 1154
+		},
+		{
+			Name: "Granville",
+			x: 758,
+			y: 1018
+		},
+		{
+			Name: "Alencon",
+			x: 808,
+			y: 1030
+		},
+		{
+			Name: "Varese",
+			x: 1008,
+			y: 1126
+		},
+		{
+			Name: "Chur",
+			x: 1028,
+			y: 1094
+		},
+		{
+			Name: "Lugano",
+			x: 1012,
+			y: 1122
+		},
+		{
+			Name: "Matera",
+			x: 1192,
+			y: 1296
+		},
+		{
+			Name: "Asti",
+			x: 994,
+			y: 1160
+		},
+		{
+			Name: "Cosenza",
+			x: 1190,
+			y: 1338
+		},
+		{
+			Name: "Kalisz",
+			x: 1226,
+			y: 920
+		},
+		{
+			Name: "Opole",
+			x: 1234,
+			y: 958
+		},
+		{
+			Name: "Igdır",
+			x: 1872,
+			y: 1322
+		},
+		{
+			Name: "Tatvan",
+			x: 1830,
+			y: 1356
+		},
+		{
+			Name: "Mayadin",
+			x: 1776,
+			y: 1470
+		},
+		{
+			Name: "Al-Maʿarra",
+			x: 1700,
+			y: 1440
+		},
+		{
+			Name: "Hakkari",
+			x: 1872,
+			y: 1390
+		},
+		{
+			Name: "Adiyaman",
+			x: 1736,
+			y: 1384
+		},
+		{
+			Name: "Nizip",
+			x: 1720,
+			y: 1406
+		},
+		{
+			Name: "Kobani",
+			x: 1730,
+			y: 1412
+		},
+		{
+			Name: "Al-Thawrah",
+			x: 1740,
+			y: 1440
+		},
+		{
+			Name: "Sinop",
+			x: 1652,
+			y: 1254
+		},
+		{
+			Name: "Cide",
+			x: 1592,
+			y: 1264
+		},
+		{
+			Name: "Chojnice",
+			x: 1224,
+			y: 852
+		},
+		{
+			Name: "Fethiye",
+			x: 1510,
+			y: 1424
+		},
+		{
+			Name: "Kozan",
+			x: 1666,
+			y: 1396
+		},
+		{
+			Name: "Neapolis",
+			x: 1644,
+			y: 1366
+		},
+		{
+			Name: "Gerze",
+			x: 1656,
+			y: 1262
+		},
+		{
+			Name: "Stade",
+			x: 1024,
+			y: 848
+		},
+		{
+			Name: "Celle",
+			x: 1042,
+			y: 888
+		},
+		{
+			Name: "Fulda",
+			x: 1030,
+			y: 962
+		},
+		{
+			Name: "Giessen",
+			x: 1002,
+			y: 966
+		},
+		{
+			Name: "Schwerin",
+			x: 1070,
+			y: 852
+		},
+		{
+			Name: "Schweinfurt",
+			x: 1046,
+			y: 980
+		},
+		{
+			Name: "Gottingen",
+			x: 1040,
+			y: 926
+		},
+		{
+			Name: "Shalkar",
+			x: 2248,
+			y: 1058
+		},
+		{
+			Name: "Kulsary",
+			x: 2114,
+			y: 1086
+		},
+		{
+			Name: "Beyneu",
+			x: 2140,
+			y: 1146
+		},
+		{
+			Name: "Aksay",
+			x: 2086,
+			y: 936
+		},
+		{
+			Name: "Zhetikara",
+			x: 2288,
+			y: 898
+		},
+		{
+			Name: "Türkmenbaşy",
+			x: 2098,
+			y: 1316
+		},
+		{
+			Name: "Tejen",
+			x: 2270,
+			y: 1400
+		},
+		{
+			Name: "Haradh",
+			x: 1986,
+			y: 1788
+		},
+		{
+			Name: "AlBatha",
+			x: 2046,
+			y: 1788
+		},
+		{
+			Name: "Layla",
+			x: 1930,
+			y: 1842
+		},
+		{
+			Name: "Afif",
+			x: 1838,
+			y: 1794
+		},
+		{
+			Name: "Tayma",
+			x: 1730,
+			y: 1686
+		},
+		{
+			Name: "AlMajmaah",
+			x: 1898,
+			y: 1736
+		},
+		{
+			Name: "Khafji",
+			x: 1978,
+			y: 1672
+		},
+		{
+			Name: "AlWajh",
+			x: 1688,
+			y: 1732
+		},
+		{
+			Name: "Duba",
+			x: 1666,
+			y: 1690
+		},
+		{
+			Name: "Ruwais",
+			x: 2084,
+			y: 1792
+		},
+		{
+			Name: "ElTor",
+			x: 1614,
+			y: 1668
+		},
+		{
+			Name: "Ma'an",
+			x: 1664,
+			y: 1612
+		},
+		{
+			Name: "Mantua",
+			x: 1056,
+			y: 1154
+		},
+		{
+			Name: "Shaki",
+			x: 1942,
+			y: 1278
+		},
+		{
+			Name: "Gyumri",
+			x: 1870,
+			y: 1292
+		},
+		{
+			Name: "Waterford",
+			x: 624,
+			y: 892
+		},
+		{
+			Name: "Maykop",
+			x: 1774,
+			y: 1172
+		},
+		{
+			Name: "Limerick",
+			x: 584,
+			y: 880
+		},
+		{
+			Name: "Ayr",
+			x: 682,
+			y: 780
+		},
+		{
+			Name: "Dundalk",
+			x: 640,
+			y: 836
+		},
+		{
+			Name: "Derry",
+			x: 626,
+			y: 794
+		},
+		{
+			Name: "Poitiers",
+			x: 802,
+			y: 1104
+		},
+		{
+			Name: "Lincoln",
+			x: 782,
+			y: 858
+		},
+		{
+			Name: "Wrexham",
+			x: 714,
+			y: 864
+		},
+		{
+			Name: "Bourges",
+			x: 852,
+			y: 1086
+		},
+		{
+			Name: "Kendal",
+			x: 726,
+			y: 818
+		},
+		{
+			Name: "HassiMessaoud",
+			x: 926,
+			y: 1620
+		},
+		{
+			Name: "Adrar",
+			x: 788,
+			y: 1670
+		},
+		{
+			Name: "InSalah",
+			x: 852,
+			y: 1704
+		},
+		{
+			Name: "ElBayadh",
+			x: 816,
+			y: 1510
+		},
+		{
+			Name: "M'Sila",
+			x: 902,
+			y: 1448
+		},
+		{
+			Name: "Douz",
+			x: 1012,
+			y: 1522
+		},
+		{
+			Name: "Dunkirk",
+			x: 848,
+			y: 944
+		},
+		{
+			Name: "TanTan",
+			x: 518,
+			y: 1666
+		},
+		{
+			Name: "Tiznit",
+			x: 554,
+			y: 1632
+		},
+		{
+			Name: "Canterbury",
+			x: 816,
+			y: 932
+		},
+		{
+			Name: "Inverness",
+			x: 692,
+			y: 698
+		},
+		{
+			Name: "Esbjerg",
+			x: 1004,
+			y: 770
+		},
+		{
+			Name: "Kolding",
+			x: 1026,
+			y: 776
+		},
+		{
+			Name: "Randers",
+			x: 1042,
+			y: 730
+		},
+		{
+			Name: "Zagora",
+			x: 644,
+			y: 1612
+		},
+		{
+			Name: "Tinghir",
+			x: 650,
+			y: 1578
+		},
+		{
+			Name: "Ouarzazate",
+			x: 618,
+			y: 1594
+		},
+		{
+			Name: "Bouarfa",
+			x: 744,
+			y: 1548
+		},
+		{
+			Name: "Errachidia",
+			x: 678,
+			y: 1568
+		},
+		{
+			Name: "Midelt",
+			x: 678,
+			y: 1540
+		},
+		{
+			Name: "WestonsuperMare",
+			x: 722,
+			y: 934
+		},
+		{
+			Name: "Gap",
+			x: 942,
+			y: 1174
+		},
+		{
+			Name: "Auxerre",
+			x: 884,
+			y: 1062
+		},
+		{
+			Name: "ChalonsurSaône",
+			x: 912,
+			y: 1098
+		},
+		{
+			Name: "Montélimar",
+			x: 910,
+			y: 1172
+		},
+		{
+			Name: "Calais",
+			x: 834,
+			y: 948
+		},
+		{
+			Name: "Compiègne",
+			x: 864,
+			y: 1002
+		},
+		{
+			Name: "Lorient",
+			x: 716,
+			y: 1062
+		},
+		{
+			Name: "Faro",
+			x: 600,
+			y: 1410
+		},
+		{
+			Name: "Evora",
+			x: 600,
+			y: 1364
+		},
+		{
+			Name: "Guarda",
+			x: 614,
+			y: 1302
+		},
+		{
+			Name: "Girona",
+			x: 864,
+			y: 1254
+		},
+		{
+			Name: "LaRochelle",
+			x: 768,
+			y: 1118
+		},
+		{
+			Name: "Olbia",
+			x: 1026,
+			y: 1290
+		},
+		{
+			Name: "Ubeda",
+			x: 714,
+			y: 1398
+		},
+		{
+			Name: "BrivelaGaillarde",
+			x: 832,
+			y: 1154
+		},
+		{
+			Name: "MontdeMarsan",
+			x: 780,
+			y: 1190
+		},
+		{
+			Name: "Albi",
+			x: 842,
+			y: 1194
+		},
+		{
+			Name: "Al-Hasana",
+			x: 1610,
+			y: 1606
+		},
+		{
+			Name: "Montauban",
+			x: 828,
+			y: 1188
+		},
+		{
+			Name: "Oristano",
+			x: 1006,
+			y: 1316
+		},
+		{
+			Name: "Mahón",
+			x: 894,
+			y: 1320
+		},
+		{
+			Name: "Pau",
+			x: 782,
+			y: 1212
+		},
+		{
+			Name: "Trujillo",
+			x: 650,
+			y: 1336
+		},
+		{
+			Name: "Cuenca",
+			x: 740,
+			y: 1316
+		},
+		{
+			Name: "Guadalajara",
+			x: 716,
+			y: 1296
+		},
+		{
+			Name: "Teruel",
+			x: 766,
+			y: 1306
+		},
+		{
+			Name: "Huesca",
+			x: 782,
+			y: 1248
+		},
+		{
+			Name: "Soria",
+			x: 732,
+			y: 1266
+		},
+		{
+			Name: "Beja",
+			x: 600,
+			y: 1380
+		},
+		{
+			Name: "Lugo",
+			x: 610,
+			y: 1224
+		},
+		{
+			Name: "Segovia",
+			x: 690,
+			y: 1286
+		},
+		{
+			Name: "Toledo",
+			x: 694,
+			y: 1322
+		},
+		{
+			Name: "CiudadReal",
+			x: 696,
+			y: 1350
+		},
+		{
+			Name: "Cáceres",
+			x: 638,
+			y: 1336
+		},
+		{
+			Name: "Shostka",
+			x: 1610,
+			y: 916
+		},
+		{
+			Name: "Krychaw",
+			x: 1570,
+			y: 846
+		},
+		{
+			Name: "Polotsk",
+			x: 1496,
+			y: 772
+		},
+		{
+			Name: "Izium",
+			x: 1702,
+			y: 1006
+		},
+		{
+			Name: "Uman",
+			x: 1532,
+			y: 1030
+		},
+		{
+			Name: "Pryluky",
+			x: 1586,
+			y: 964
+		},
+		{
+			Name: "Pervomaisk",
+			x: 1550,
+			y: 1054
+		},
+		{
+			Name: "Sarny",
+			x: 1442,
+			y: 938
+		},
+		{
+			Name: "Koziatyn",
+			x: 1500,
+			y: 996
+		},
+		{
+			Name: "NovohradVolynskyi",
+			x: 1468,
+			y: 964
+		},
+		{
+			Name: "Koper",
+			x: 1130,
+			y: 1132
+		},
+		{
+			Name: "Korosten",
+			x: 1492,
+			y: 948
+		},
+		{
+			Name: "Kovel",
+			x: 1396,
+			y: 940
+		},
+		{
+			Name: "Stryi",
+			x: 1374,
+			y: 1010
+		},
+		{
+			Name: "Khust",
+			x: 1364,
+			y: 1050
+		},
+		{
+			Name: "Gusev",
+			x: 1338,
+			y: 810
+		},
+		{
+			Name: "Klagenfurt",
+			x: 1148,
+			y: 1102
+		},
+	],
+	name: Earth
+}

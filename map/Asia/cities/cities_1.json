@@ -1,0 +1,8567 @@
+{
+	cities:
+	[
+{
+			Name: "Dushanbe",
+x:1161,
+y:1238
+},
+{
+			Name: "Tashkent",
+x:1172,
+y:1135
+},
+{
+			Name: "Astana",
+x:1232,
+y:761
+},
+{
+			Name: "Bishkek",
+x:1315,
+y:1078
+},
+{
+			Name: "Islamabad",
+x:1276,
+y:1401
+},
+{
+			Name: "Dhaka",
+x:1740,
+y:1718
+},
+{
+			Name: "Thimphu",
+x:1724,
+y:1599
+},
+{
+			Name: "Phnom Penh",
+x:2136,
+y:2086
+},
+{
+			Name: "Bangkok",
+x:2017,
+y:2020
+},
+{
+			Name: "Vientiane",
+x:2074,
+y:1894
+},
+{
+			Name: "Manila",
+x:2571,
+y:1991
+},
+{
+			Name: "Ulaanbaatar",
+x:2189,
+y:893
+},
+{
+			Name: "New Delhi",
+x:1384,
+y:1566
+},
+{
+			Name: "Sana'a",
+x:495,
+y:1965
+},
+{
+			Name: "Abu Dhabi",
+x:781,
+y:1696
+},
+{
+			Name: "Dili",
+x:2697,
+y:2673
+},
+{
+			Name: "Port Moresby",
+x:3271,
+y:2693
+},
+{
+			Name: "Honiara",
+x:3625,
+y:2702
+},
+{
+			Name: "Colombo",
+x:1467,
+y:2222
+},
+{
+			Name: "Jakarta",
+x:2189,
+y:2605
+},
+{
+			Name: "Singapore",
+x:2107,
+y:2380
+},
+{
+			Name: "Kuala Lumpur",
+x:2048,
+y:2328
+},
+{
+			Name: "Bandar Seri Begawan",
+x:2400,
+y:2281
+},
+{
+			Name: "Asmara",
+x:358,
+y:1973
+},
+{
+			Name: "Djibouti",
+x:466,
+y:2083
+},
+{
+			Name: "Juba",
+x:158,
+y:2279
+},
+{
+			Name: "Bujumbura",
+x:101,
+y:2526
+},
+{
+			Name: "Kigali",
+x:118,
+y:2479
+},
+{
+			Name: "Dodoma",
+x:272,
+y:2600
+},
+{
+			Name: "Nairobi",
+x:301,
+y:2462
+},
+{
+			Name: "Mogadishu",
+x:530,
+y:2354
+},
+{
+			Name: "Addis Ababa",
+x:354,
+y:2160
+},
+{
+			Name: "Nanjing",
+x:2512,
+y:1454
+},
+{
+			Name: "Malé",
+x:1280,
+y:2301
+},
+{
+			Name: "Manama",
+x:673,
+y:1635
+},
+{
+			Name: "Beirut",
+x:270,
+y:1386
+},
+{
+			Name: "Ngerulmud",
+x:2930,
+y:2200
+},
+{
+			Name: "Agana",
+x:3198,
+y:2022
+},
+{
+			Name: "Palikir",
+x:3550,
+y:2213
+},
+{
+			Name: "Vaiaku",
+x:4138,
+y:2680
+},
+{
+			Name: "Atafu",
+x:4386,
+y:2699
+},
+{
+			Name: "Majuro",
+x:3924,
+y:2160
+},
+{
+			Name: "Denigomodu",
+x:3792,
+y:2435
+},
+{
+			Name: "South Tarawa",
+x:3962,
+y:2378
+},
+{
+			Name: "Capitol Hill",
+x:3227,
+y:1971
+},
+{
+			Name: "Amman",
+x:275,
+y:1452
+},
+{
+			Name: "Jerusalem",
+x:257,
+y:1463
+},
+{
+			Name: "Doha",
+x:694,
+y:1668
+},
+{
+			Name: "Kuwait City",
+x:598,
+y:1548
+},
+{
+			Name: "Victoria",
+x:796,
+y:2563
+},
+{
+			Name: "Kampala",
+x:184,
+y:2410
+},
+{
+			Name: "Macau",
+x:2371,
+y:1768
+},
+{
+			Name: "Omdurman",
+x:182,
+y:1962
+},
+{
+			Name: "Syktyvkar",
+x:675,
+y:304
+},
+{
+			Name: "Kollam",
+x:1368,
+y:2142
+},
+{
+			Name: "Orsk",
+x:886,
+y:759
+},
+{
+			Name: "Chelyabinsk",
+x:965,
+y:559
+},
+{
+			Name: "Magnitogorsk",
+x:891,
+y:653
+},
+{
+			Name: "Yakutsk",
+x:2811,
+y:286
+},
+{
+			Name: "Khabarovsk",
+x:2952,
+y:873
+},
+{
+			Name: "Tyumen",
+x:1020,
+y:484
+},
+{
+			Name: "Chita",
+x:2362,
+y:728
+},
+{
+			Name: "Surgut",
+x:1287,
+y:326
+},
+{
+			Name: "Kirov",
+x:642,
+y:442
+},
+{
+			Name: "Saratov",
+x:541,
+y:752
+},
+{
+			Name: "Cherepovets",
+x:332,
+y:409
+},
+{
+			Name: "Petrozavodsk",
+x:224,
+y:207
+},
+{
+			Name: "Ivanovo",
+x:407,
+y:513
+},
+{
+			Name: "Ryazan",
+x:376,
+y:623
+},
+{
+			Name: "Tver",
+x:270,
+y:521
+},
+{
+			Name: "Penza",
+x:517,
+y:682
+},
+{
+			Name: "Ulyanovsk",
+x:605,
+y:634
+},
+{
+			Name: "Belgorod",
+x:292,
+y:792
+},
+{
+			Name: "Oryol",
+x:279,
+y:693
+},
+{
+			Name: "Kursk",
+x:281,
+y:746
+},
+{
+			Name: "Astrakhan",
+x:600,
+y:953
+},
+{
+			Name: "Stavropol",
+x:435,
+y:999
+},
+{
+			Name: "Darkhan",
+x:2160,
+y:829
+},
+{
+			Name: "Vladikavkaz",
+x:503,
+y:1074
+},
+{
+			Name: "Grozny",
+x:534,
+y:1065
+},
+{
+			Name: "Sochi",
+x:387,
+y:1045
+},
+{
+			Name: "Bannu",
+x:1205,
+y:1421
+},
+{
+			Name: "Jalalabad",
+x:1196,
+y:1373
+},
+{
+			Name: "Peshawar",
+x:1229,
+y:1388
+},
+{
+			Name: "Sargodha",
+x:1260,
+y:1452
+},
+{
+			Name: "Gujranwala",
+x:1300,
+y:1452
+},
+{
+			Name: "Faisalabad",
+x:1260,
+y:1483
+},
+{
+			Name: "Bahawalpur",
+x:1234,
+y:1542
+},
+{
+			Name: "Rahim Yar Khan",
+x:1196,
+y:1566
+},
+{
+			Name: "Daejeon",
+x:2752,
+y:1309
+},
+{
+			Name: "Gwangju",
+x:2732,
+y:1351
+},
+{
+			Name: "Daegu",
+x:2778,
+y:1331
+},
+{
+			Name: "Fukuoka",
+x:2827,
+y:1401
+},
+{
+			Name: "Vologda",
+x:385,
+y:409
+},
+{
+			Name: "Perm",
+x:827,
+y:462
+},
+{
+			Name: "Ufa",
+x:814,
+y:616
+},
+{
+			Name: "Samara",
+x:666,
+y:680
+},
+{
+			Name: "Volgograd",
+x:510,
+y:869
+},
+{
+			Name: "Makhachkala",
+x:591,
+y:1085
+},
+{
+			Name: "Donetsk",
+x:323,
+y:891
+},
+{
+			Name: "Smolensk",
+x:171,
+y:616
+},
+{
+			Name: "Voronezh",
+x:365,
+y:748
+},
+{
+			Name: "Bryansk",
+x:239,
+y:680
+},
+{
+			Name: "Jyväskylä",
+x:4,
+y:277
+},
+{
+			Name: "Rovaniemi",
+x:2,
+y:53
+},
+{
+			Name: "Tula",
+x:319,
+y:636
+},
+{
+			Name: "Tambov",
+x:424,
+y:704
+},
+{
+			Name: "Uralsk",
+x:690,
+y:766
+},
+{
+			Name: "Atyrau",
+x:701,
+y:917
+},
+{
+			Name: "Aktau",
+x:699,
+y:1056
+},
+{
+			Name: "Nukus",
+x:910,
+y:1093
+},
+{
+			Name: "Quetta",
+x:1111,
+y:1520
+},
+{
+			Name: "Srinagar",
+x:1322,
+y:1390
+},
+{
+			Name: "Lhasa",
+x:1764,
+y:1536
+},
+{
+			Name: "Chengdu",
+x:2112,
+y:1509
+},
+{
+			Name: "Chongqing",
+x:2182,
+y:1540
+},
+{
+			Name: "Kunming",
+x:2076,
+y:1679
+},
+{
+			Name: "Guangzhou",
+x:2365,
+y:1740
+},
+{
+			Name: "Wuhan",
+x:2391,
+y:1509
+},
+{
+			Name: "Nanyang",
+x:2343,
+y:1430
+},
+{
+			Name: "Qingdao",
+x:2556,
+y:1316
+},
+{
+			Name: "Yantai",
+x:2585,
+y:1274
+},
+{
+			Name: "Jinan",
+x:2464,
+y:1305
+},
+{
+			Name: "Taiyuan",
+x:2345,
+y:1265
+},
+{
+			Name: "Ulanqab",
+x:2358,
+y:1151
+},
+{
+			Name: "Bayannur",
+x:2202,
+y:1157
+},
+{
+			Name: "Huanggang",
+x:2415,
+y:1663
+},
+{
+			Name: "Jiuquan",
+x:1958,
+y:1190
+},
+{
+			Name: "Hangzhou",
+x:2555,
+y:1516
+},
+{
+			Name: "Haikou",
+x:2283,
+y:1833
+},
+{
+			Name: "Lae",
+x:3269,
+y:2620
+},
+{
+			Name: "Rostov-on-Don",
+x:382,
+y:913
+},
+{
+			Name: "Arkhangelsk",
+x:391,
+y:156
+},
+{
+			Name: "Nablus",
+x:261,
+y:1445
+},
+{
+			Name: "Zanzibar",
+x:360,
+y:2600
+},
+{
+			Name: "Haifa",
+x:255,
+y:1426
+},
+{
+			Name: "Latakia",
+x:277,
+y:1329
+},
+{
+			Name: "Dar es Salaam",
+x:358,
+y:2620
+},
+{
+			Name: "Mogilev",
+x:125,
+y:651
+},
+{
+			Name: "Khmelnytskyi",
+x:35,
+y:838
+},
+{
+			Name: "Kherson",
+x:184,
+y:942
+},
+{
+			Name: "Gomel",
+x:140,
+y:713
+},
+{
+			Name: "Cherkasy",
+x:169,
+y:838
+},
+{
+			Name: "Chernihiv",
+x:149,
+y:752
+},
+{
+			Name: "Rivne",
+x:15,
+y:790
+},
+{
+			Name: "Dnipropetrovsk",
+x:253,
+y:880
+},
+{
+			Name: "Sevastopol",
+x:222,
+y:1005
+},
+{
+			Name: "Krasnodar",
+x:358,
+y:1003
+},
+{
+			Name: "Nizhny Novgorod",
+x:490,
+y:556
+},
+{
+			Name: "Veliky Novgorod",
+x:154,
+y:442
+},
+{
+			Name: "Kazan",
+x:633,
+y:568
+},
+{
+			Name: "Kharkiv",
+x:286,
+y:816
+},
+{
+			Name: "Denizli",
+x:90,
+y:1254
+},
+{
+			Name: "Konya",
+x:183,
+y:1250
+},
+{
+			Name: "Kayseri",
+x:261,
+y:1223
+},
+{
+			Name: "Samsun",
+x:288,
+y:1135
+},
+{
+			Name: "Batumi",
+x:442,
+y:1124
+},
+{
+			Name: "Erbil",
+x:490,
+y:1305
+},
+{
+			Name: "Kirkuk",
+x:503,
+y:1329
+},
+{
+			Name: "Kutaisi",
+x:457,
+y:1107
+},
+{
+			Name: "Najaf",
+x:499,
+y:1441
+},
+{
+			Name: "Basra",
+x:594,
+y:1498
+},
+{
+			Name: "Nasiriyah",
+x:552,
+y:1476
+},
+{
+			Name: "Hama",
+x:301,
+y:1342
+},
+{
+			Name: "Homs",
+x:297,
+y:1357
+},
+{
+			Name: "Deir ez-Zor",
+x:382,
+y:1338
+},
+{
+			Name: "Eskişehir",
+x:127,
+y:1188
+},
+{
+			Name: "Ganja",
+x:554,
+y:1155
+},
+{
+			Name: "Stepanakert",
+x:565,
+y:1186
+},
+{
+			Name: "Van",
+x:475,
+y:1228
+},
+{
+			Name: "Chittagong",
+x:1784,
+y:1756
+},
+{
+			Name: "Monywa",
+x:1870,
+y:1764
+},
+{
+			Name: "Pagan",
+x:1859,
+y:1797
+},
+{
+			Name: "Siliguri",
+x:1689,
+y:1626
+},
+{
+			Name: "Yangon",
+x:1882,
+y:1932
+},
+{
+			Name: "Palu",
+x:2096,
+y:2446
+},
+{
+			Name: "Jeddah",
+x:365,
+y:1778
+},
+{
+			Name: "Denpasar",
+x:2411,
+y:2673
+},
+{
+			Name: "Semarang",
+x:2085,
+y:2631
+},
+{
+			Name: "Banda Aceh",
+x:1883,
+y:2264
+},
+{
+			Name: "Khulna",
+x:1718,
+y:1747
+},
+{
+			Name: "Rajshahi",
+x:1691,
+y:1698
+},
+{
+			Name: "Guwahati",
+x:1775,
+y:1641
+},
+{
+			Name: "Sanliurfa",
+x:349,
+y:1274
+},
+{
+			Name: "Mersin",
+x:235,
+y:1287
+},
+{
+			Name: "Aleppo",
+x:308,
+y:1305
+},
+{
+			Name: "Sivas",
+x:301,
+y:1188
+},
+{
+			Name: "Erzurum",
+x:415,
+y:1184
+},
+{
+			Name: "Istanbul",
+x:86,
+y:1146
+},
+{
+			Name: "Tekirdag",
+x:48,
+y:1148
+},
+{
+			Name: "Rhodes",
+x:63,
+y:1307
+},
+{
+			Name: "Zamboanga",
+x:2602,
+y:2213
+},
+{
+			Name: "Nagoya",
+x:3005,
+y:1353
+},
+{
+			Name: "Hiroshima",
+x:2882,
+y:1375
+},
+{
+			Name: "Banjarmasin",
+x:2395,
+y:2523
+},
+{
+			Name: "Jayapura",
+x:3095,
+y:2497
+},
+{
+			Name: "Balikpapan",
+x:2455,
+y:2455
+},
+{
+			Name: "Kuching",
+x:2283,
+y:2374
+},
+{
+			Name: "Manado",
+x:2668,
+y:2383
+},
+{
+			Name: "Makassar",
+x:2527,
+y:2574
+},
+{
+			Name: "Mataram",
+x:2437,
+y:2671
+},
+{
+			Name: "Bandung",
+x:2208,
+y:2625
+},
+{
+			Name: "Surabaya",
+x:2343,
+y:2638
+},
+{
+			Name: "Pangkal Pinang",
+x:2167,
+y:2490
+},
+{
+			Name: "Sendai",
+x:3108,
+y:1247
+},
+{
+			Name: "Niigata",
+x:3064,
+y:1258
+},
+{
+			Name: "Kagoshima",
+x:2831,
+y:1458
+},
+{
+			Name: "Matsuyama",
+x:2890,
+y:1395
+},
+{
+			Name: "Davao",
+x:2692,
+y:2204
+},
+{
+			Name: "Cebu",
+x:2648,
+y:2116
+},
+{
+			Name: "Tabriz",
+x:550,
+y:1245
+},
+{
+			Name: "Rasht",
+x:637,
+y:1274
+},
+{
+			Name: "Kerman",
+x:844,
+y:1511
+},
+{
+			Name: "Shiraz",
+x:721,
+y:1533
+},
+{
+			Name: "Yazd",
+x:770,
+y:1461
+},
+{
+			Name: "Ahvaz",
+x:616,
+y:1474
+},
+{
+			Name: "Bandar Abbas",
+x:818,
+y:1604
+},
+{
+			Name: "Hamadan",
+x:611,
+y:1357
+},
+{
+			Name: "Mashhad",
+x:910,
+y:1307
+},
+{
+			Name: "Zahedan",
+x:943,
+y:1534
+},
+{
+			Name: "Kermanshah",
+x:572,
+y:1377
+},
+{
+			Name: "Sanandaj",
+x:569,
+y:1340
+},
+{
+			Name: "Qom",
+x:673,
+y:1362
+},
+{
+			Name: "Isfahan",
+x:697,
+y:1432
+},
+{
+			Name: "Zanjan",
+x:609,
+y:1294
+},
+{
+			Name: "Urmia",
+x:517,
+y:1261
+},
+{
+			Name: "Izmir",
+x:39,
+y:1236
+},
+{
+			Name: "Osaka",
+x:2965,
+y:1373
+},
+{
+			Name: "Mandalay",
+x:1900,
+y:1773
+},
+{
+			Name: "Saint Petersburg",
+x:134,
+y:383
+},
+{
+			Name: "Tianjin",
+x:2470,
+y:1221
+},
+{
+			Name: "Xi'an",
+x:2246,
+y:1384
+},
+{
+			Name: "Moulmein",
+x:1940,
+y:1934
+},
+{
+			Name: "Sa Kaeo",
+x:2052,
+y:2013
+},
+{
+			Name: "Siem Reap",
+x:2105,
+y:2028
+},
+{
+			Name: "Likasi",
+x:24,
+y:2739
+},
+{
+			Name: "Bukavu",
+x:77,
+y:2501
+},
+{
+			Name: "Uvira",
+x:88,
+y:2523
+},
+{
+			Name: "Da Nang",
+x:2226,
+y:1951
+},
+{
+			Name: "Goma",
+x:85,
+y:2475
+},
+{
+			Name: "Bunia",
+x:118,
+y:2374
+},
+{
+			Name: "Can Tho",
+x:2153,
+y:2125
+},
+{
+			Name: "Malacca",
+x:2065,
+y:2352
+},
+{
+			Name: "Morogoro",
+x:319,
+y:2622
+},
+{
+			Name: "Songea",
+x:264,
+y:2726
+},
+{
+			Name: "Mtwara",
+x:385,
+y:2728
+},
+{
+			Name: "Mbeya",
+x:206,
+y:2682
+},
+{
+			Name: "Mwanza",
+x:193,
+y:2504
+},
+{
+			Name: "Arusha",
+x:292,
+y:2523
+},
+{
+			Name: "Tanga",
+x:356,
+y:2572
+},
+{
+			Name: "Bahir Dar",
+x:310,
+y:2083
+},
+{
+			Name: "Gondar",
+x:310,
+y:2044
+},
+{
+			Name: "Kisumu",
+x:242,
+y:2431
+},
+{
+			Name: "Mombasa",
+x:371,
+y:2541
+},
+{
+			Name: "Awasa",
+x:336,
+y:2218
+},
+{
+			Name: "Dessie",
+x:374,
+y:2090
+},
+{
+			Name: "Mek'ele",
+x:369,
+y:2017
+},
+{
+			Name: "Baidoa",
+x:481,
+y:2330
+},
+{
+			Name: "Merca",
+x:509,
+y:2368
+},
+{
+			Name: "Galkayo",
+x:587,
+y:2218
+},
+{
+			Name: "Beledweyne",
+x:525,
+y:2286
+},
+{
+			Name: "Bosaso",
+x:633,
+y:2094
+},
+{
+			Name: "Qardho",
+x:629,
+y:2145
+},
+{
+			Name: "El-Obeid",
+x:121,
+y:2033
+},
+{
+			Name: "Madurai",
+x:1414,
+y:2130
+},
+{
+			Name: "Tiruchirappalli",
+x:1432,
+y:2105
+},
+{
+			Name: "Trivandrum",
+x:1379,
+y:2158
+},
+{
+			Name: "Dubai",
+x:800,
+y:1670
+},
+{
+			Name: "Galati",
+x:59,
+y:988
+},
+{
+			Name: "Constanta",
+x:77,
+y:1034
+},
+{
+			Name: "Brasov",
+x:6,
+y:1005
+},
+{
+			Name: "Burgas",
+x:48,
+y:1096
+},
+{
+			Name: "Antalya",
+x:134,
+y:1283
+},
+{
+			Name: "Adana",
+x:254,
+y:1278
+},
+{
+			Name: "Gaziantep",
+x:316,
+y:1276
+},
+{
+			Name: "Bhubaneswar",
+x:1619,
+y:1824
+},
+{
+			Name: "Rourkela",
+x:1592,
+y:1764
+},
+{
+			Name: "Jamshedpur",
+x:1621,
+y:1747
+},
+{
+			Name: "Ranchi",
+x:1606,
+y:1729
+},
+{
+			Name: "Surajpur",
+x:1535,
+y:1734
+},
+{
+			Name: "Lahore",
+x:1311,
+y:1474
+},
+{
+			Name: "Raipur",
+x:1507,
+y:1793
+},
+{
+			Name: "Nanded",
+x:1394,
+y:1859
+},
+{
+			Name: "Jagdalpur",
+x:1511,
+y:1866
+},
+{
+			Name: "Karachi",
+x:1119,
+y:1679
+},
+{
+			Name: "Pune",
+x:1302,
+y:1890
+},
+{
+			Name: "Aurangabad",
+x:1339,
+y:1841
+},
+{
+			Name: "Vijayawada",
+x:1480,
+y:1940
+},
+{
+			Name: "Mumbai",
+x:1278,
+y:1870
+},
+{
+			Name: "Hubli",
+x:1333,
+y:1971
+},
+{
+			Name: "Bangalore",
+x:1394,
+y:2042
+},
+{
+			Name: "Coimbatore",
+x:1386,
+y:2099
+},
+{
+			Name: "Hyderabad",
+x:1425,
+y:1914
+},
+{
+			Name: "Chennai",
+x:1469,
+y:2031
+},
+{
+			Name: "Ahmedabad",
+x:1260,
+y:1740
+},
+{
+			Name: "Ürümqi",
+x:1658,
+y:1045
+},
+{
+			Name: "Ganzhou",
+x:2409,
+y:1657
+},
+{
+			Name: "Jingzhou",
+x:2334,
+y:1514
+},
+{
+			Name: "Changsha",
+x:2354,
+y:1582
+},
+{
+			Name: "Bijie",
+x:2145,
+y:1610
+},
+{
+			Name: "Zunyi",
+x:2191,
+y:1595
+},
+{
+			Name: "Kolkata",
+x:1680,
+y:1753
+},
+{
+			Name: "Nanchang",
+x:2433,
+y:1566
+},
+{
+			Name: "Huaihua",
+x:2272,
+y:1602
+},
+{
+			Name: "Hengyang",
+x:2343,
+y:1624
+},
+{
+			Name: "Jinhua",
+x:2536,
+y:1555
+},
+{
+			Name: "Jieyang",
+x:2446,
+y:1727
+},
+{
+			Name: "Maoming",
+x:2301,
+y:1771
+},
+{
+			Name: "Zhanjiang",
+x:2283,
+y:1786
+},
+{
+			Name: "Fuzhou",
+x:2527,
+y:1650
+},
+{
+			Name: "Fuyang",
+x:2433,
+y:1419
+},
+{
+			Name: "Wenzhou",
+x:2558,
+y:1597
+},
+{
+			Name: "Zhumadian",
+x:2389,
+y:1421
+},
+{
+			Name: "Xuzhou",
+x:2475,
+y:1379
+},
+{
+			Name: "Jinzhou",
+x:2571,
+y:1144
+},
+{
+			Name: "Yanchengs",
+x:2549,
+y:1406
+},
+{
+			Name: "Nanchong",
+x:2178,
+y:1485
+},
+{
+			Name: "Cangzhou",
+x:2464,
+y:1245
+},
+{
+			Name: "Shijiazhuang",
+x:2402,
+y:1261
+},
+{
+			Name: "Hefei",
+x:2475,
+y:1454
+},
+{
+			Name: "Nantong",
+x:2569,
+y:1448
+},
+{
+			Name: "Baoding",
+x:2426,
+y:1228
+},
+{
+			Name: "Zhengzhou",
+x:2378,
+y:1360
+},
+{
+			Name: "Zhoukou",
+x:2406,
+y:1395
+},
+{
+			Name: "Jining",
+x:2455,
+y:1338
+},
+{
+			Name: "Linyi",
+x:2503,
+y:1349
+},
+{
+			Name: "Chongjin",
+x:2811,
+y:1122
+},
+{
+			Name: "Zhangjiakou",
+x:2411,
+y:1159
+},
+{
+			Name: "Hamhung",
+x:2747,
+y:1184
+},
+{
+			Name: "Tangshan",
+x:2494,
+y:1195
+},
+{
+			Name: "Chengde",
+x:2486,
+y:1151
+},
+{
+			Name: "Mudanjiang",
+x:2800,
+y:1021
+},
+{
+			Name: "Chaoyang",
+x:2554,
+y:1126
+},
+{
+			Name: "Tongliao",
+x:2604,
+y:1054
+},
+{
+			Name: "Tieling",
+x:2644,
+y:1107
+},
+{
+			Name: "Dalian",
+x:2589,
+y:1219
+},
+{
+			Name: "Baishan",
+x:2721,
+y:1118
+},
+{
+			Name: "Tonghua",
+x:2703,
+y:1122
+},
+{
+			Name: "Liaoyuan",
+x:2684,
+y:1080
+},
+{
+			Name: "Baicheng",
+x:2618,
+y:986
+},
+{
+			Name: "Daxing'anling",
+x:2668,
+y:715
+},
+{
+			Name: "Qiqihar",
+x:2646,
+y:915
+},
+{
+			Name: "Yanbian",
+x:2800,
+y:1085
+},
+{
+			Name: "Yichun",
+x:2780,
+y:900
+},
+{
+			Name: "Shuangyashan",
+x:2842,
+y:944
+},
+{
+			Name: "Petropavl",
+x:1168,
+y:596
+},
+{
+			Name: "Osh",
+x:1267,
+y:1170
+},
+{
+			Name: "Kunduz",
+x:1159,
+y:1291
+},
+{
+			Name: "Samarkand",
+x:1111,
+y:1190
+},
+{
+			Name: "Bukhara",
+x:1036,
+y:1188
+},
+{
+			Name: "Taraz",
+x:1223,
+y:1078
+},
+{
+			Name: "Shymkent",
+x:1174,
+y:1104
+},
+{
+			Name: "Almaty",
+x:1375,
+y:1064
+},
+{
+			Name: "Karaganda",
+x:1271,
+y:816
+},
+{
+			Name: "Aktobe",
+x:844,
+y:796
+},
+{
+			Name: "Mazar-i-Sharif",
+x:1113,
+y:1296
+},
+{
+			Name: "Jaipur",
+x:1348,
+y:1621
+},
+{
+			Name: "Kostanay",
+x:1020,
+y:671
+},
+{
+			Name: "Herat",
+x:981,
+y:1375
+},
+{
+			Name: "Kandahar",
+x:1075,
+y:1467
+},
+{
+			Name: "Hofuf",
+x:642,
+y:1661
+},
+{
+			Name: "Türkmenabat",
+x:1016,
+y:1214
+},
+{
+			Name: "Daşoguz",
+x:906,
+y:1102
+},
+{
+			Name: "Bisha",
+x:453,
+y:1817
+},
+{
+			Name: "Abha",
+x:444,
+y:1877
+},
+{
+			Name: "Bhopal",
+x:1390,
+y:1727
+},
+{
+			Name: "Buraidah",
+x:488,
+y:1637
+},
+{
+			Name: "Khamis Mushait",
+x:459,
+y:1874
+},
+{
+			Name: "Hafar Al-Batin",
+x:541,
+y:1573
+},
+{
+			Name: "Sohar",
+x:833,
+y:1694
+},
+{
+			Name: "Tuy Hoa",
+x:2255,
+y:2035
+},
+{
+			Name: "Sharurah",
+x:576,
+y:1905
+},
+{
+			Name: "Nawabshah",
+x:1144,
+y:1630
+},
+{
+			Name: "Ujjain",
+x:1346,
+y:1731
+},
+{
+			Name: "Hyderabad",
+x:1148,
+y:1663
+},
+{
+			Name: "Bikaner",
+x:1280,
+y:1586
+},
+{
+			Name: "Jodhpur",
+x:1267,
+y:1643
+},
+{
+			Name: "Ajmer",
+x:1315,
+y:1635
+},
+{
+			Name: "Bhuj",
+x:1181,
+y:1731
+},
+{
+			Name: "Lucknow",
+x:1489,
+y:1619
+},
+{
+			Name: "Jamnagar",
+x:1194,
+y:1758
+},
+{
+			Name: "Nashik",
+x:1293,
+y:1822
+},
+{
+			Name: "Rajkot",
+x:1218,
+y:1762
+},
+{
+			Name: "Thanjavur",
+x:1443,
+y:2110
+},
+{
+			Name: "Vijayapura",
+x:1355,
+y:1936
+},
+{
+			Name: "Jabalpur",
+x:1460,
+y:1736
+},
+{
+			Name: "Nagpur",
+x:1436,
+y:1795
+},
+{
+			Name: "Pegu",
+x:1914,
+y:1921
+},
+{
+			Name: "Kanpur",
+x:1469,
+y:1639
+},
+{
+			Name: "Kota",
+x:1348,
+y:1672
+},
+{
+			Name: "Gwalior",
+x:1412,
+y:1639
+},
+{
+			Name: "Agra",
+x:1408,
+y:1610
+},
+{
+			Name: "Durgapur",
+x:1654,
+y:1725
+},
+{
+			Name: "Varanasi",
+x:1542,
+y:1677
+},
+{
+			Name: "Visakhapatnam",
+x:1553,
+y:1899
+},
+{
+			Name: "Indore",
+x:1350,
+y:1754
+},
+{
+			Name: "Patna",
+x:1606,
+y:1653
+},
+{
+			Name: "Saigon",
+x:2182,
+y:2105
+},
+{
+			Name: "Oskemen",
+x:1533,
+y:810
+},
+{
+			Name: "Novosibirsk",
+x:1542,
+y:590
+},
+{
+			Name: "Krasnoyarsk",
+x:1810,
+y:543
+},
+{
+			Name: "Harbin",
+x:2721,
+y:968
+},
+{
+			Name: "Taipei",
+x:2587,
+y:1679
+},
+{
+			Name: "Shanghai",
+x:2587,
+y:1481
+},
+{
+			Name: "Hong Kong",
+x:2389,
+y:1760
+},
+{
+			Name: "Varna",
+x:57,
+y:1069
+},
+{
+			Name: "Aswan",
+x:184,
+y:1703
+},
+{
+			Name: "Edfu",
+x:178,
+y:1652
+},
+{
+			Name: "Sohag",
+x:158,
+y:1630
+},
+{
+			Name: "Asyut",
+x:145,
+y:1606
+},
+{
+			Name: "Hurghada",
+x:217,
+y:1604
+},
+{
+			Name: "Alexandria",
+x:114,
+y:1483
+},
+{
+			Name: "Yanbu",
+x:338,
+y:1705
+},
+{
+			Name: "Arak",
+x:646,
+y:1384
+},
+{
+			Name: "Corlu",
+x:59,
+y:1140
+},
+{
+			Name: "Sharm El Sheikh",
+x:231,
+y:1582
+},
+{
+			Name: "Beni Suef",
+x:140,
+y:1544
+},
+{
+			Name: "Mersa Matruh",
+x:39,
+y:1472
+},
+{
+			Name: "Bursa",
+x:92,
+y:1173
+},
+{
+			Name: "Dammam",
+x:655,
+y:1630
+},
+{
+			Name: "Sakakah",
+x:389,
+y:1520
+},
+{
+			Name: "Al Mukalla",
+x:635,
+y:1989
+},
+{
+			Name: "Salalah",
+x:767,
+y:1921
+},
+{
+			Name: "Aden",
+x:523,
+y:2037
+},
+{
+			Name: "Tabuk",
+x:294,
+y:1564
+},
+{
+			Name: "Medina",
+x:376,
+y:1690
+},
+{
+			Name: "Mecca",
+x:385,
+y:1784
+},
+{
+			Name: "Ha'il",
+x:433,
+y:1591
+},
+{
+			Name: "Daugavpils",
+x:24,
+y:563
+},
+{
+			Name: "Yaroslavl",
+x:380,
+y:486
+},
+{
+			Name: "Pavlodar",
+x:1381,
+y:713
+},
+{
+			Name: "Omsk",
+x:1282,
+y:592
+},
+{
+			Name: "Barnaul",
+x:1566,
+y:664
+},
+{
+			Name: "Kurgan",
+x:1064,
+y:583
+},
+{
+			Name: "Nizhnevartovsk",
+x:1357,
+y:332
+},
+{
+			Name: "Tomsk",
+x:1610,
+y:493
+},
+{
+			Name: "Kemerovo",
+x:1625,
+y:535
+},
+{
+			Name: "Irkutsk",
+x:2118,
+y:711
+},
+{
+			Name: "Kyzyl",
+x:1863,
+y:750
+},
+{
+			Name: "Choibalsan",
+x:2395,
+y:891
+},
+{
+			Name: "Altai",
+x:1900,
+y:953
+},
+{
+			Name: "Ölgii",
+x:1729,
+y:845
+},
+{
+			Name: "Medan",
+x:1966,
+y:2314
+},
+{
+			Name: "Palembang",
+x:2127,
+y:2508
+},
+{
+			Name: "Pekanbaru",
+x:2041,
+y:2405
+},
+{
+			Name: "Padang",
+x:2015,
+y:2449
+},
+{
+			Name: "Mörön",
+x:2010,
+y:825
+},
+{
+			Name: "Sapporo",
+x:3124,
+y:1074
+},
+{
+			Name: "Skudai",
+x:2098,
+y:2369
+},
+{
+			Name: "Hulunbuir",
+x:2538,
+y:843
+},
+{
+			Name: "Shenyang",
+x:2640,
+y:1122
+},
+{
+			Name: "Changchun",
+x:2690,
+y:1043
+},
+{
+			Name: "Chifeng",
+x:2516,
+y:1107
+},
+{
+			Name: "Busan",
+x:2789,
+y:1351
+},
+{
+			Name: "Vladivostok",
+x:2871,
+y:1063
+},
+{
+			Name: "Dalanzadgad",
+x:2125,
+y:1058
+},
+{
+			Name: "Ulan-Ude",
+x:2206,
+y:730
+},
+{
+			Name: "Abakan",
+x:1771,
+y:649
+},
+{
+			Name: "Izhevsk",
+x:741,
+y:519
+},
+{
+			Name: "Orenburg",
+x:792,
+y:744
+},
+{
+			Name: "Petrozavodsk",
+x:237,
+y:295
+},
+{
+			Name: "Vladimir",
+x:400,
+y:552
+},
+{
+			Name: "Rzhev",
+x:244,
+y:552
+},
+{
+			Name: "Velikiye Luki",
+x:134,
+y:546
+},
+{
+			Name: "Pskov",
+x:72,
+y:473
+},
+{
+			Name: "Odessa",
+x:134,
+y:944
+},
+{
+			Name: "Dire Dawa",
+x:437,
+y:2143
+},
+{
+			Name: "Hargeisa",
+x:499,
+y:2143
+},
+{
+			Name: "Kremenchuk",
+x:209,
+y:856
+},
+{
+			Name: "Babruysk",
+x:96,
+y:682
+},
+{
+			Name: "Vitebsk",
+x:121,
+y:594
+},
+{
+			Name: "Mykolaiv",
+x:173,
+y:928
+},
+{
+			Name: "Sumy",
+x:246,
+y:779
+},
+{
+			Name: "Poltava",
+x:239,
+y:832
+},
+{
+			Name: "Mariupol",
+x:319,
+y:920
+},
+{
+			Name: "Vinnytsia",
+x:74,
+y:849
+},
+{
+			Name: "Chernivtsi",
+x:8,
+y:884
+},
+{
+			Name: "Guiyang",
+x:2182,
+y:1628
+},
+{
+			Name: "Tainan",
+x:2552,
+y:1738
+},
+{
+			Name: "Pu'er",
+x:2028,
+y:1747
+},
+{
+			Name: "Honghe",
+x:2092,
+y:1727
+},
+{
+			Name: "Nanning",
+x:2226,
+y:1747
+},
+{
+			Name: "Guilin",
+x:2277,
+y:1672
+},
+{
+			Name: "Xiamen",
+x:2490,
+y:1694
+},
+{
+			Name: "Nagqu",
+x:1788,
+y:1476
+},
+{
+			Name: "Xigaze",
+x:1700,
+y:1547
+},
+{
+			Name: "Dharan",
+x:1658,
+y:1624
+},
+{
+			Name: "Butwal",
+x:1555,
+y:1595
+},
+{
+			Name: "Ludhiana",
+x:1348,
+y:1494
+},
+{
+			Name: "Gilgit",
+x:1309,
+y:1327
+},
+{
+			Name: "Kassala",
+x:283,
+y:1967
+},
+{
+			Name: "El-Gadarif",
+x:264,
+y:2006
+},
+{
+			Name: "Port Sudan",
+x:308,
+y:1839
+},
+{
+			Name: "Surat",
+x:1271,
+y:1791
+},
+{
+			Name: "Ava",
+x:1878,
+y:1810
+},
+{
+			Name: "Tripoli",
+x:281,
+y:1368
+},
+{
+			Name: "Weifang",
+x:2521,
+y:1296
+},
+{
+			Name: "Kaohsiung",
+x:2556,
+y:1749
+},
+{
+			Name: "Kobe",
+x:2950,
+y:1364
+},
+{
+			Name: "Saitama",
+x:3075,
+y:1322
+},
+{
+			Name: "Ishinomaki",
+x:3119,
+y:1241
+},
+{
+			Name: "Rumoi",
+x:3135,
+y:1034
+},
+{
+			Name: "Shinjo",
+x:3097,
+y:1228
+},
+{
+			Name: "Semboku",
+x:3104,
+y:1201
+},
+{
+			Name: "Maebashi",
+x:3058,
+y:1307
+},
+{
+			Name: "Utsunomiya",
+x:3080,
+y:1305
+},
+{
+			Name: "Ise",
+x:2992,
+y:1373
+},
+{
+			Name: "Takayama",
+x:3017,
+y:1317
+},
+{
+			Name: "Pohang",
+x:2796,
+y:1320
+},
+{
+			Name: "Kumamoto",
+x:2840,
+y:1426
+},
+{
+			Name: "Cheboksary",
+x:587,
+y:557
+},
+{
+			Name: "Tagbilaran",
+x:2651,
+y:2134
+},
+{
+			Name: "Bandar Lampung",
+x:2142,
+y:2587
+},
+{
+			Name: "Bacolod",
+x:2626,
+y:2108
+},
+{
+			Name: "Iloilo",
+x:2611,
+y:2103
+},
+{
+			Name: "Calbayog",
+x:2670,
+y:2068
+},
+{
+			Name: "Jeju",
+x:2728,
+y:1410
+},
+{
+			Name: "Gandhinagar",
+x:1265,
+y:1729
+},
+{
+			Name: "Tendo",
+x:3093,
+y:1239
+},
+{
+			Name: "Chiba",
+x:3091,
+y:1335
+},
+{
+			Name: "Saga",
+x:2824,
+y:1412
+},
+{
+			Name: "Naha",
+x:2765,
+y:1630
+},
+{
+			Name: "Hakodate",
+x:3102,
+y:1122
+},
+{
+			Name: "Tomakomai",
+x:3130,
+y:1089
+},
+{
+			Name: "Nizwa",
+x:866,
+y:1745
+},
+{
+			Name: "Tottori",
+x:2928,
+y:1342
+},
+{
+			Name: "Junagadh",
+x:1203,
+y:1780
+},
+{
+			Name: "Bareilly",
+x:1449,
+y:1566
+},
+{
+			Name: "Mathura",
+x:1392,
+y:1608
+},
+{
+			Name: "Lahti",
+x:2,
+y:334
+},
+{
+			Name: "Gwangyang",
+x:2754,
+y:1351
+},
+{
+			Name: "Jeonju",
+x:2739,
+y:1322
+},
+{
+			Name: "Bratsk",
+x:2048,
+y:557
+},
+{
+			Name: "Solapur",
+x:1359,
+y:1901
+},
+{
+			Name: "Hosur",
+x:1408,
+y:2048
+},
+{
+			Name: "Loralai",
+x:1168,
+y:1514
+},
+{
+			Name: "Mahbubnagar",
+x:1416,
+y:1938
+},
+{
+			Name: "Akola",
+x:1386,
+y:1811
+},
+{
+			Name: "Panipat",
+x:1370,
+y:1542
+},
+{
+			Name: "Aligarh",
+x:1412,
+y:1586
+},
+{
+			Name: "Novy Urengoy",
+x:1377,
+y:70
+},
+{
+			Name: "Yuzhno Sakhalinsk",
+x:3154,
+y:920
+},
+{
+			Name: "Komsomolsk on Amur",
+x:2992,
+y:803
+},
+{
+			Name: "Ukhta",
+x:743,
+y:187
+},
+{
+			Name: "Blagoveshchensk",
+x:2747,
+y:796
+},
+{
+			Name: "Nakhodka",
+x:2893,
+y:1078
+},
+{
+			Name: "Vesely Yar",
+x:2967,
+y:1027
+},
+{
+			Name: "Arzamas",
+x:488,
+y:587
+},
+{
+			Name: "Magadan",
+x:3374,
+y:400
+},
+{
+			Name: "Kostroma",
+x:418,
+y:480
+},
+{
+			Name: "Petropavlovsk-Kamchatsky",
+x:3580,
+y:693
+},
+{
+			Name: "Orekhovo-Zuyevo",
+x:358,
+y:561
+},
+{
+			Name: "Kamyshin",
+x:525,
+y:810
+},
+{
+			Name: "Podolsk",
+x:316,
+y:592
+},
+{
+			Name: "Yelets",
+x:343,
+y:713
+},
+{
+			Name: "Novomoskovsk",
+x:338,
+y:647
+},
+{
+			Name: "Almetyevsk",
+x:710,
+y:609
+},
+{
+			Name: "Elista",
+x:497,
+y:953
+},
+{
+			Name: "Balakovo",
+x:598,
+y:735
+},
+{
+			Name: "Volgodonsk",
+x:444,
+y:915
+},
+{
+			Name: "Longnan",
+x:2149,
+y:1404
+},
+{
+			Name: "Kislovodsk",
+x:455,
+y:1047
+},
+{
+			Name: "Armavir",
+x:413,
+y:1003
+},
+{
+			Name: "Pyatigorsk",
+x:464,
+y:1036
+},
+{
+			Name: "Xining",
+x:2061,
+y:1298
+},
+{
+			Name: "Kerch",
+x:293,
+y:988
+},
+{
+			Name: "Lanzhou",
+x:2120,
+y:1318
+},
+{
+			Name: "Kargil",
+x:1353,
+y:1375
+},
+{
+			Name: "Dera Ghazi Khan",
+x:1203,
+y:1522
+},
+{
+			Name: "Mirpur",
+x:1295,
+y:1419
+},
+{
+			Name: "Meerut",
+x:1397,
+y:1553
+},
+{
+			Name: "Jacobabad",
+x:1141,
+y:1573
+},
+{
+			Name: "Shimla",
+x:1383,
+y:1485
+},
+{
+			Name: "Gangneung",
+x:2787,
+y:1269
+},
+{
+			Name: "Patiala",
+x:1355,
+y:1516
+},
+{
+			Name: "Sri Ganganagar",
+x:1293,
+y:1525
+},
+{
+			Name: "Andong",
+x:2783,
+y:1298
+},
+{
+			Name: "Gongju",
+x:2741,
+y:1307
+},
+{
+			Name: "Tartu",
+x:28,
+y:447
+},
+{
+			Name: "Kuopio",
+x:55,
+y:242
+},
+{
+			Name: "Baranavichy",
+x:11,
+y:682
+},
+{
+			Name: "Pinsk",
+x:13,
+y:726
+},
+{
+			Name: "Kitale",
+x:253,
+y:2396
+},
+{
+			Name: "Tunduru",
+x:312,
+y:2741
+},
+{
+			Name: "Tabora",
+x:189,
+y:2572
+},
+{
+			Name: "Singida",
+x:239,
+y:2563
+},
+{
+			Name: "Iringa",
+x:268,
+y:2649
+},
+{
+			Name: "Kigoma",
+x:110,
+y:2565
+},
+{
+			Name: "Sumbawanga",
+x:156,
+y:2658
+},
+{
+			Name: "Mbarara",
+x:129,
+y:2446
+},
+{
+			Name: "Musoma",
+x:220,
+y:2473
+},
+{
+			Name: "Gulu",
+x:176,
+y:2341
+},
+{
+			Name: "Mbale",
+x:226,
+y:2389
+},
+{
+			Name: "Garissa",
+x:367,
+y:2444
+},
+{
+			Name: "Naivasha",
+x:280,
+y:2446
+},
+{
+			Name: "Jimma",
+x:297,
+y:2196
+},
+{
+			Name: "Malakal",
+x:160,
+y:2145
+},
+{
+			Name: "Dadaab",
+x:391,
+y:2427
+},
+{
+			Name: "Wau",
+x:59,
+y:2198
+},
+{
+			Name: "Arba Minch",
+x:314,
+y:2248
+},
+{
+			Name: "Debre Berhan",
+x:374,
+y:2141
+},
+{
+			Name: "Jijiga",
+x:462,
+y:2147
+},
+{
+			Name: "Erigavo",
+x:572,
+y:2119
+},
+{
+			Name: "Jamame",
+x:454,
+y:2416
+},
+{
+			Name: "Behbehan",
+x:682,
+y:1487
+},
+{
+			Name: "Navoiy",
+x:1062,
+y:1179
+},
+{
+			Name: "Bojnord",
+x:853,
+y:1267
+},
+{
+			Name: "Rabak",
+x:187,
+y:2035
+},
+{
+			Name: "Renk",
+x:195,
+y:2075
+},
+{
+			Name: "Ardabil",
+x:616,
+y:1236
+},
+{
+			Name: "Ordu",
+x:332,
+y:1142
+},
+{
+			Name: "Damietta",
+x:167,
+y:1470
+},
+{
+			Name: "Ad-Damazin",
+x:228,
+y:2070
+},
+{
+			Name: "Sennar",
+x:211,
+y:2022
+},
+{
+			Name: "Kolhapur",
+x:1313,
+y:1927
+},
+{
+			Name: "Diyarbakir",
+x:378,
+y:1256
+},
+{
+			Name: "Qinzhou",
+x:2241,
+y:1771
+},
+{
+			Name: "Kaluga",
+x:281,
+y:627
+},
+{
+			Name: "Najran",
+x:501,
+y:1907
+},
+{
+			Name: "Tokat",
+x:299,
+y:1168
+},
+{
+			Name: "Rize",
+x:409,
+y:1146
+},
+{
+			Name: "Sabzevar",
+x:873,
+y:1300
+},
+{
+			Name: "Ta'if",
+x:411,
+y:1786
+},
+{
+			Name: "Al-Kharj",
+x:587,
+y:1705
+},
+{
+			Name: "Sulaymaniyah",
+x:541,
+y:1333
+},
+{
+			Name: "Srikakulam",
+x:1568,
+y:1883
+},
+{
+			Name: "Ongole",
+x:1465,
+y:1967
+},
+{
+			Name: "Kakinada",
+x:1526,
+y:1925
+},
+{
+			Name: "Mosul",
+x:466,
+y:1291
+},
+{
+			Name: "Shimoga",
+x:1342,
+y:2015
+},
+{
+			Name: "Bellary",
+x:1379,
+y:1978
+},
+{
+			Name: "Huludao",
+x:2563,
+y:1157
+},
+{
+			Name: "Hyesan",
+x:2769,
+y:1140
+},
+{
+			Name: "Yuncheng",
+x:2310,
+y:1353
+},
+{
+			Name: "Lijiang",
+x:2006,
+y:1624
+},
+{
+			Name: "Aba",
+x:2061,
+y:1463
+},
+{
+			Name: "Zhaotong",
+x:2101,
+y:1608
+},
+{
+			Name: "Baoshan",
+x:1986,
+y:1670
+},
+{
+			Name: "Liangshan",
+x:2079,
+y:1597
+},
+{
+			Name: "Baiyin",
+x:2127,
+y:1300
+},
+{
+			Name: "Lincang",
+x:2004,
+y:1716
+},
+{
+			Name: "Shaoguan",
+x:2371,
+y:1685
+},
+{
+			Name: "Dehong",
+x:1962,
+y:1698
+},
+{
+			Name: "Luzhou",
+x:2149,
+y:1562
+},
+{
+			Name: "Ji'an",
+x:2409,
+y:1617
+},
+{
+			Name: "Jingdezhen",
+x:2468,
+y:1549
+},
+{
+			Name: "Guigang",
+x:2263,
+y:1740
+},
+{
+			Name: "Nanping",
+x:2497,
+y:1630
+},
+{
+			Name: "Longyan",
+x:2464,
+y:1681
+},
+{
+			Name: "Chongzuo",
+x:2202,
+y:1762
+},
+{
+			Name: "Hechi",
+x:2222,
+y:1692
+},
+{
+			Name: "Xuancheng",
+x:2512,
+y:1496
+},
+{
+			Name: "Anqing",
+x:2468,
+y:1509
+},
+{
+			Name: "Yinchuan",
+x:2180,
+y:1247
+},
+{
+			Name: "Jingmen",
+x:2340,
+y:1478
+},
+{
+			Name: "Hanzhong",
+x:2202,
+y:1415
+},
+{
+			Name: "Shiyan",
+x:2301,
+y:1428
+},
+{
+			Name: "Baoji",
+x:2211,
+y:1373
+},
+{
+			Name: "Changzhi",
+x:2367,
+y:1313
+},
+{
+			Name: "Qingyang",
+x:2219,
+y:1329
+},
+{
+			Name: "Xuchang",
+x:2384,
+y:1386
+},
+{
+			Name: "Yan'an",
+x:2268,
+y:1298
+},
+{
+			Name: "Xinzhou",
+x:2356,
+y:1234
+},
+{
+			Name: "Yulin",
+x:2274,
+y:1243
+},
+{
+			Name: "Binzhou",
+x:2494,
+y:1274
+},
+{
+			Name: "Datong",
+x:2369,
+y:1184
+},
+{
+			Name: "Sariwon",
+x:2701,
+y:1239
+},
+{
+			Name: "Wonsan",
+x:2743,
+y:1212
+},
+{
+			Name: "Sinuiju",
+x:2666,
+y:1181
+},
+{
+			Name: "Kanggye",
+x:2721,
+y:1151
+},
+{
+			Name: "Xilingol League",
+x:2435,
+y:1043
+},
+{
+			Name: "Udaipur",
+x:1291,
+y:1692
+},
+{
+			Name: "Dandong",
+x:2655,
+y:1184
+},
+{
+			Name: "Fujin",
+x:2864,
+y:922
+},
+{
+			Name: "Dandong",
+x:2655,
+y:1184
+},
+{
+			Name: "Manzhouli",
+x:2477,
+y:834
+},
+{
+			Name: "Arun Banner",
+x:2633,
+y:882
+},
+{
+			Name: "Qurghonteppa",
+x:1159,
+y:1261
+},
+{
+			Name: "Genhe",
+x:2576,
+y:781
+},
+{
+			Name: "Khuzdar",
+x:1097,
+y:1588
+},
+{
+			Name: "Bekabad",
+x:1161,
+y:1177
+},
+{
+			Name: "Termez",
+x:1117,
+y:1269
+},
+{
+			Name: "Kyzylorda",
+x:1067,
+y:1010
+},
+{
+			Name: "Taldykorgan",
+x:1416,
+y:997
+},
+{
+			Name: "Ghazni",
+x:1146,
+y:1410
+},
+{
+			Name: "Sur",
+x:913,
+y:1753
+},
+{
+			Name: "Dalbandin",
+x:1047,
+y:1553
+},
+{
+			Name: "Jizan",
+x:455,
+y:1910
+},
+{
+			Name: "Balkanabat",
+x:772,
+y:1197
+},
+{
+			Name: "Al Bahah",
+x:422,
+y:1828
+},
+{
+			Name: "Arish",
+x:224,
+y:1478
+},
+{
+			Name: "Qurayyat",
+x:312,
+y:1470
+},
+{
+			Name: "Duqm",
+x:864,
+y:1839
+},
+{
+			Name: "Godhra",
+x:1289,
+y:1749
+},
+{
+			Name: "Damoh",
+x:1447,
+y:1703
+},
+{
+			Name: "Ibb",
+x:497,
+y:2009
+},
+{
+			Name: "Pali",
+x:1280,
+y:1654
+},
+{
+			Name: "Sikar",
+x:1328,
+y:1595
+},
+{
+			Name: "Anantapur",
+x:1399,
+y:1993
+},
+{
+			Name: "Khairpur",
+x:1155,
+y:1602
+},
+{
+			Name: "Chhindwara",
+x:1430,
+y:1771
+},
+{
+			Name: "Jalgaon",
+x:1344,
+y:1797
+},
+{
+			Name: "Katni",
+x:1471,
+y:1716
+},
+{
+			Name: "Lakhimpur",
+x:1489,
+y:1591
+},
+{
+			Name: "Chandrapur",
+x:1445,
+y:1837
+},
+{
+			Name: "Rewa",
+x:1498,
+y:1694
+},
+{
+			Name: "Gaya",
+x:1595,
+y:1685
+},
+{
+			Name: "Nizamabad",
+x:1416,
+y:1874
+},
+{
+			Name: "Berhampur",
+x:1590,
+y:1852
+},
+{
+			Name: "Gulbarga",
+x:1377,
+y:1916
+},
+{
+			Name: "Karimnagar",
+x:1438,
+y:1887
+},
+{
+			Name: "Nellore",
+x:1463,
+y:2000
+},
+{
+			Name: "Mangalore",
+x:1331,
+y:2046
+},
+{
+			Name: "Kanchipuram",
+x:1454,
+y:2046
+},
+{
+			Name: "Mysore",
+x:1375,
+y:2061
+},
+{
+			Name: "Kochi",
+x:1366,
+y:2119
+},
+{
+			Name: "Kandy",
+x:1485,
+y:2215
+},
+{
+			Name: "Tirunelveli",
+x:1403,
+y:2163
+},
+{
+			Name: "Kasama",
+x:145,
+y:2719
+},
+{
+			Name: "Mansa",
+x:81,
+y:2746
+},
+{
+			Name: "Kindu",
+x:2,
+y:2512
+},
+{
+			Name: "Kalemie",
+x:88,
+y:2594
+},
+{
+			Name: "Isiro",
+x:46,
+y:2339
+},
+{
+			Name: "Afyonkarahisar",
+x:129,
+y:1221
+},
+{
+			Name: "Iskenderun",
+x:288,
+y:1294
+},
+{
+			Name: "Zonguldak",
+x:162,
+y:1133
+},
+{
+			Name: "Trabzon",
+x:374,
+y:1146
+},
+{
+			Name: "Batman",
+x:411,
+y:1247
+},
+{
+			Name: "Elazığ",
+x:360,
+y:1223
+},
+{
+			Name: "Kashan",
+x:690,
+y:1388
+},
+{
+			Name: "Tacloban",
+x:2677,
+y:2088
+},
+{
+			Name: "Butuan",
+x:2692,
+y:2156
+},
+{
+			Name: "General Santos",
+x:2679,
+y:2235
+},
+{
+			Name: "Aksaray",
+x:222,
+y:1234
+},
+{
+			Name: "Sorong",
+x:2849,
+y:2449
+},
+{
+			Name: "Mendi",
+x:3176,
+y:2600
+},
+{
+			Name: "Tarakan",
+x:2475,
+y:2328
+},
+{
+			Name: "Tawau",
+x:2483,
+y:2297
+},
+{
+			Name: "Miri",
+x:2382,
+y:2297
+},
+{
+			Name: "Kendari",
+x:2609,
+y:2539
+},
+{
+			Name: "Kupang",
+x:2644,
+y:2717
+},
+{
+			Name: "Tasikmalaya",
+x:2217,
+y:2638
+},
+{
+			Name: "Ambon",
+x:2763,
+y:2528
+},
+{
+			Name: "Malang",
+x:2349,
+y:2658
+},
+{
+			Name: "Aomori",
+x:3106,
+y:1159
+},
+{
+			Name: "Sibu",
+x:2318,
+y:2356
+},
+{
+			Name: "Pontianak",
+x:2255,
+y:2422
+},
+{
+			Name: "Palangka Raya",
+x:2373,
+y:2493
+},
+{
+			Name: "Kota Bharu",
+x:2063,
+y:2244
+},
+{
+			Name: "Kuantan",
+x:2094,
+y:2310
+},
+{
+			Name: "Taiping",
+x:2024,
+y:2281
+},
+{
+			Name: "Sungai Petani",
+x:2019,
+y:2262
+},
+{
+			Name: "Jambi",
+x:2101,
+y:2468
+},
+{
+			Name: "Bengkulu",
+x:2063,
+y:2530
+},
+{
+			Name: "Akita",
+x:3088,
+y:1199
+},
+{
+			Name: "Baguio",
+x:2563,
+y:1938
+},
+{
+			Name: "Oita",
+x:2862,
+y:1417
+},
+{
+			Name: "Asahikawa",
+x:3146,
+y:1047
+},
+{
+			Name: "Kyoto",
+x:2972,
+y:1349
+},
+{
+			Name: "Mito",
+x:3095,
+y:1311
+},
+{
+			Name: "Shizuoka",
+x:3042,
+y:1355
+},
+{
+			Name: "Kanazawa",
+x:2996,
+y:1302
+},
+{
+			Name: "Kochi",
+x:2910,
+y:1401
+},
+{
+			Name: "Okayama",
+x:2919,
+y:1366
+},
+{
+			Name: "Puerto Princesa",
+x:2519,
+y:2125
+},
+{
+			Name: "Olongapo",
+x:2554,
+y:1987
+},
+{
+			Name: "Sari",
+x:734,
+y:1298
+},
+{
+			Name: "Gorgan",
+x:776,
+y:1287
+},
+{
+			Name: "Bushehr",
+x:684,
+y:1551
+},
+{
+			Name: "Sirjan",
+x:803,
+y:1536
+},
+{
+			Name: "Abadan",
+x:609,
+y:1503
+},
+{
+			Name: "Torbat-e Heydarieh",
+x:902,
+y:1351
+},
+{
+			Name: "Samawah",
+x:525,
+y:1465
+},
+{
+			Name: "Khoy",
+x:514,
+y:1232
+},
+{
+			Name: "Maragheh",
+x:552,
+y:1272
+},
+{
+			Name: "Baqubah",
+x:510,
+y:1386
+},
+{
+			Name: "Tikrit",
+x:479,
+y:1357
+},
+{
+			Name: "Arar",
+x:409,
+y:1481
+},
+{
+			Name: "Uşak",
+x:94,
+y:1221
+},
+{
+			Name: "Nakhchivan",
+x:530,
+y:1206
+},
+{
+			Name: "Kozhikode",
+x:1357,
+y:2094
+},
+{
+			Name: "Bilaspur",
+x:1513,
+y:1775
+},
+{
+			Name: "Korba",
+x:1533,
+y:1769
+},
+{
+			Name: "Dawei",
+x:1958,
+y:2009
+},
+{
+			Name: "Tskhinvali",
+x:490,
+y:1102
+},
+{
+			Name: "Sukhumi",
+x:420,
+y:1069
+},
+{
+			Name: "Qamishli",
+x:420,
+y:1278
+},
+{
+			Name: "Alanya",
+x:169,
+y:1291
+},
+{
+			Name: "Malatya",
+x:336,
+y:1234
+},
+{
+			Name: "Edirne",
+x:24,
+y:1122
+},
+{
+			Name: "Sakarya",
+x:125,
+y:1153
+},
+{
+			Name: "Madani",
+x:213,
+y:1998
+},
+{
+			Name: "Yogyakarta",
+x:2285,
+y:2653
+},
+{
+			Name: "Myitkyina",
+x:1931,
+y:1665
+},
+{
+			Name: "Taunggyi",
+x:1918,
+y:1811
+},
+{
+			Name: "Rangpur",
+x:1709,
+y:1657
+},
+{
+			Name: "Imphal",
+x:1837,
+y:1685
+},
+{
+			Name: "Magway",
+x:1861,
+y:1835
+},
+{
+			Name: "Sylhet",
+x:1782,
+y:1683
+},
+{
+			Name: "Aizawl",
+x:1806,
+y:1720
+},
+{
+			Name: "Agartala",
+x:1768,
+y:1716
+},
+{
+			Name: "Sisaket",
+x:2118,
+y:1982
+},
+{
+			Name: "Rayong",
+x:2039,
+y:2044
+},
+{
+			Name: "Nakhon Sawan",
+x:2006,
+y:1962
+},
+{
+			Name: "Nakhon Ratchasima",
+x:2061,
+y:1978
+},
+{
+			Name: "Chiang Mai",
+x:1971,
+y:1874
+},
+{
+			Name: "Battambang",
+x:2085,
+y:2039
+},
+{
+			Name: "Myeik",
+x:1969,
+y:2057
+},
+{
+			Name: "Surat Thani",
+x:1980,
+y:2154
+},
+{
+			Name: "Pattani",
+x:2039,
+y:2226
+},
+{
+			Name: "Luang Prabang",
+x:2065,
+y:1837
+},
+{
+			Name: "Nha Trang",
+x:2250,
+y:2064
+},
+{
+			Name: "Hue",
+x:2213,
+y:1936
+},
+{
+			Name: "Viet Tri",
+x:2145,
+y:1789
+},
+{
+			Name: "Vinh",
+x:2158,
+y:1872
+},
+{
+			Name: "Thanh Hoa",
+x:2160,
+y:1839
+},
+{
+			Name: "Quy Nhon",
+x:2255,
+y:2020
+},
+{
+			Name: "Da Lat",
+x:2226,
+y:2072
+},
+{
+			Name: "Marsa Alam",
+x:240,
+y:1676
+},
+{
+			Name: "Port Said",
+x:173,
+y:1476
+},
+{
+			Name: "Sfântu Gheorghe",
+x:11,
+y:994
+},
+{
+			Name: "Bacau",
+x:33,
+y:939
+},
+{
+			Name: "Braila",
+x:57,
+y:994
+},
+{
+			Name: "Ruse",
+x:8,
+y:1052
+},
+{
+			Name: "Yichang",
+x:2303,
+y:1507
+},
+{
+			Name: "Kashgar",
+x:1343,
+y:1204
+},
+{
+			Name: "Aksu",
+x:1469,
+y:1142
+},
+{
+			Name: "Ili",
+x:1498,
+y:1043
+},
+{
+			Name: "Baise",
+x:2180,
+y:1714
+},
+{
+			Name: "Hualian",
+x:2585,
+y:1714
+},
+{
+			Name: "Dhangadhi",
+x:1480,
+y:1562
+},
+{
+			Name: "Mazyr",
+x:99,
+y:733
+},
+{
+			Name: "Barysaw",
+x:79,
+y:636
+},
+{
+			Name: "Melitopol",
+x:261,
+y:937
+},
+{
+			Name: "Pavlohrad",
+x:277,
+y:876
+},
+{
+			Name: "Yevpatoria",
+x:217,
+y:988
+},
+{
+			Name: "Balti",
+x:61,
+y:904
+},
+{
+			Name: "Sievierodonetsk",
+x:345,
+y:854
+},
+{
+			Name: "Suceava",
+x:13,
+y:909
+},
+{
+			Name: "Botosani",
+x:28,
+y:906
+},
+{
+			Name: "Taungoo",
+x:1911,
+y:1863
+},
+{
+			Name: "Pathein",
+x:1894,
+y:1940
+},
+{
+			Name: "Sittwe",
+x:1804,
+y:1797
+},
+{
+			Name: "Ayutthaya",
+x:2013,
+y:2002
+},
+{
+			Name: "Madaripur",
+x:1731,
+y:1734
+},
+{
+			Name: "Sihanoukville",
+x:2114,
+y:2105
+},
+{
+			Name: "Dumai",
+x:2041,
+y:2378
+},
+{
+			Name: "Pekalongan",
+x:2261,
+y:2627
+},
+{
+			Name: "Cagayan de Oro",
+x:2662,
+y:2174
+},
+{
+			Name: "Cilegon",
+x:2162,
+y:2603
+},
+{
+			Name: "Mae Sot",
+x:1962,
+y:1921
+},
+{
+			Name: "Dehradun",
+x:1419,
+y:1520
+},
+{
+			Name: "Phan Thiet",
+x:2219,
+y:2101
+},
+{
+			Name: "Ca Mau",
+x:2145,
+y:2154
+},
+{
+			Name: "Latur",
+x:1372,
+y:1885
+},
+{
+			Name: "Shillong",
+x:1779,
+y:1665
+},
+{
+			Name: "Jaunpur",
+x:1528,
+y:1657
+},
+{
+			Name: "Diu",
+x:1220,
+y:1806
+},
+{
+			Name: "Bhavnagar",
+x:1253,
+y:1778
+},
+{
+			Name: "Tirupati",
+x:1449,
+y:2017
+},
+{
+			Name: "Udupi",
+x:1326,
+y:2031
+},
+{
+			Name: "Alephata",
+x:1313,
+y:1861
+},
+{
+			Name: "Gorakhpur",
+x:1535,
+y:1628
+},
+{
+			Name: "Skardu",
+x:1342,
+y:1344
+},
+{
+			Name: "Leh",
+x:1397,
+y:1386
+},
+{
+			Name: "Lianyungang",
+x:2521,
+y:1368
+},
+{
+			Name: "Berbera",
+x:521,
+y:2119
+},
+{
+			Name: "Buur Gaabo",
+x:490,
+y:2350
+},
+{
+			Name: "Kotlas",
+x:563,
+y:304
+},
+{
+			Name: "Ust Ilimsk",
+x:2061,
+y:495
+},
+{
+			Name: "Tobolsk",
+x:1056,
+y:458
+},
+{
+			Name: "Tatarsk",
+x:1368,
+y:574
+},
+{
+			Name: "Mirny",
+x:2358,
+y:273
+},
+{
+			Name: "Sayansk",
+x:2070,
+y:653
+},
+{
+			Name: "Usolye Sibirskoye",
+x:2101,
+y:695
+},
+{
+			Name: "Tynda",
+x:2670,
+y:585
+},
+{
+			Name: "Zeya",
+x:2736,
+y:656
+},
+{
+			Name: "Birobidzhan",
+x:2890,
+y:858
+},
+{
+			Name: "Sovetskaya Gavan",
+x:3091,
+y:840
+},
+{
+			Name: "Neryungri",
+x:2668,
+y:521
+},
+{
+			Name: "Borzya",
+x:2448,
+y:792
+},
+{
+			Name: "Kuybyshev",
+x:1416,
+y:576
+},
+{
+			Name: "Solikamsk",
+x:825,
+y:389
+},
+{
+			Name: "Dadu",
+x:1133,
+y:1617
+},
+{
+			Name: "Kungur",
+x:844,
+y:477
+},
+{
+			Name: "Glazov",
+x:741,
+y:455
+},
+{
+			Name: "Veliky Ustyug",
+x:558,
+y:328
+},
+{
+			Name: "Tikhvin",
+x:220,
+y:378
+},
+{
+			Name: "Uglich",
+x:336,
+y:484
+},
+{
+			Name: "Rezekne",
+x:46,
+y:537
+},
+{
+			Name: "Volkhov",
+x:182,
+y:383
+},
+{
+			Name: "Kostomuksha",
+x:127,
+y:156
+},
+{
+			Name: "Segezha",
+x:226,
+y:172
+},
+{
+			Name: "Frolovo",
+x:486,
+y:838
+},
+{
+			Name: "Borovichi",
+x:217,
+y:449
+},
+{
+			Name: "Vyshny Volochyok",
+x:233,
+y:484
+},
+{
+			Name: "Rostov",
+x:365,
+y:504
+},
+{
+			Name: "Dubna",
+x:305,
+y:524
+},
+{
+			Name: "Torzhok",
+x:248,
+y:508
+},
+{
+			Name: "Staraya Russa",
+x:147,
+y:464
+},
+{
+			Name: "Akhtubinsk",
+x:545,
+y:880
+},
+{
+			Name: "Kingisepp",
+x:72,
+y:405
+},
+{
+			Name: "Slantsy",
+x:63,
+y:422
+},
+{
+			Name: "Gatchina",
+x:116,
+y:394
+},
+{
+			Name: "Sarov",
+x:468,
+y:607
+},
+{
+			Name: "Klin",
+x:301,
+y:550
+},
+{
+			Name: "Lyudinovo",
+x:239,
+y:653
+},
+{
+			Name: "Vyborg",
+x:90,
+y:343
+},
+{
+			Name: "Pugachyov",
+x:629,
+y:733
+},
+{
+			Name: "Klintsy",
+x:176,
+y:706
+},
+{
+			Name: "Buzuluk",
+x:708,
+y:702
+},
+{
+			Name: "Borisoglebsk",
+x:437,
+y:759
+},
+{
+			Name: "Pavlovsk",
+x:385,
+y:801
+},
+{
+			Name: "Millerovo",
+x:391,
+y:884
+},
+{
+			Name: "Yeysk",
+x:347,
+y:933
+},
+{
+			Name: "Salsk",
+x:426,
+y:946
+},
+{
+			Name: "Kizlyar",
+x:569,
+y:1045
+},
+{
+			Name: "Timashyovsk",
+x:358,
+y:970
+},
+{
+			Name: "Erdenet",
+x:2109,
+y:847
+},
+{
+			Name: "Anapa",
+x:321,
+y:994
+},
+{
+			Name: "Shannan",
+x:1779,
+y:1553
+},
+{
+			Name: "Ngari",
+x:1456,
+y:1434
+},
+{
+			Name: "Nyingchi",
+x:1850,
+y:1529
+},
+{
+			Name: "Chengguan",
+x:1933,
+y:1485
+},
+{
+			Name: "Serpukhov",
+x:316,
+y:614
+},
+{
+			Name: "Shchyokino",
+x:310,
+y:660
+},
+{
+			Name: "Mtsensk",
+x:288,
+y:680
+},
+{
+			Name: "Jelec",
+x:330,
+y:700
+},
+{
+			Name: "Beysehir",
+x:165,
+y:1258
+},
+{
+			Name: "Nalchik",
+x:484,
+y:1056
+},
+{
+			Name: "Badr",
+x:352,
+y:1707
+},
+{
+			Name: "Budyonnovsk",
+x:499,
+y:1003
+},
+{
+			Name: "Najafabad",
+x:682,
+y:1441
+},
+{
+			Name: "Mobarakeh",
+x:693,
+y:1450
+},
+{
+			Name: "Amarah",
+x:578,
+y:1459
+},
+{
+			Name: "Ramadi",
+x:475,
+y:1397
+},
+{
+			Name: "Kut",
+x:550,
+y:1430
+},
+{
+			Name: "Bam",
+x:862,
+y:1533
+},
+{
+			Name: "Bandar-e Mahshahr",
+x:635,
+y:1500
+},
+{
+			Name: "Qarshi",
+x:1078,
+y:1219
+},
+{
+			Name: "Khujand",
+x:1185,
+y:1173
+},
+{
+			Name: "Armyansk",
+x:226,
+y:957
+},
+{
+			Name: "Zhanaozen",
+x:734,
+y:1054
+},
+{
+			Name: "Ucar",
+x:607,
+y:1155
+},
+{
+			Name: "Derbent",
+x:607,
+y:1109
+},
+{
+			Name: "Khalkhal",
+x:618,
+y:1263
+},
+{
+			Name: "Damavand",
+x:706,
+y:1329
+},
+{
+			Name: "Hoseinan",
+x:776,
+y:1353
+},
+{
+			Name: "Amol",
+x:710,
+y:1305
+},
+{
+			Name: "Gonbad-e Kavus",
+x:792,
+y:1267
+},
+{
+			Name: "Mianeh",
+x:598,
+y:1278
+},
+{
+			Name: "Lahijan",
+x:653,
+y:1280
+},
+{
+			Name: "Ercis",
+x:479,
+y:1212
+},
+{
+			Name: "Ardahan",
+x:459,
+y:1144
+},
+{
+			Name: "Bataysk",
+x:382,
+y:924
+},
+{
+			Name: "Tikhoretsk",
+x:404,
+y:964
+},
+{
+			Name: "Ipatovo",
+x:466,
+y:972
+},
+{
+			Name: "Kurskaya",
+x:506,
+y:1038
+},
+{
+			Name: "Hainan",
+x:2028,
+y:1313
+},
+{
+			Name: "Heze",
+x:2426,
+y:1342
+},
+{
+			Name: "Zaozhuang",
+x:2466,
+y:1362
+},
+{
+			Name: "Yichuan",
+x:2274,
+y:1346
+},
+{
+			Name: "Fuxian",
+x:2252,
+y:1322
+},
+{
+			Name: "Zhashui",
+x:2252,
+y:1408
+},
+{
+			Name: "Gannan",
+x:2085,
+y:1368
+},
+{
+			Name: "Danfeng",
+x:2281,
+y:1410
+},
+{
+			Name: "Tianshui",
+x:2162,
+y:1371
+},
+{
+			Name: "Guyuan",
+x:2178,
+y:1324
+},
+{
+			Name: "Huaibei",
+x:2435,
+y:1373
+},
+{
+			Name: "Luoyang",
+x:2365,
+y:1368
+},
+{
+			Name: "Linfen",
+x:2329,
+y:1309
+},
+{
+			Name: "Yushu",
+x:1938,
+y:1421
+},
+{
+			Name: "Alxa",
+x:2153,
+y:1228
+},
+{
+			Name: "Haixi",
+x:1940,
+y:1274
+},
+{
+			Name: "Jinchang",
+x:2050,
+y:1223
+},
+{
+			Name: "Yuli",
+x:1632,
+y:1133
+},
+{
+			Name: "Hotan",
+x:1456,
+y:1280
+},
+{
+			Name: "Ulaangom",
+x:1782,
+y:812
+},
+{
+			Name: "Bayankhongor",
+x:2017,
+y:959
+},
+{
+			Name: "Chitral",
+x:1238,
+y:1329
+},
+{
+			Name: "Sainshand",
+x:2272,
+y:1008
+},
+{
+			Name: "Padum",
+x:1375,
+y:1408
+},
+{
+			Name: "Narva",
+x:53,
+y:407
+},
+{
+			Name: "Kajaani",
+x:52,
+y:172
+},
+{
+			Name: "Fergana",
+x:1249,
+y:1159
+},
+{
+			Name: "Cahul",
+x:70,
+y:975
+},
+{
+			Name: "Mancherial",
+x:1452,
+y:1872
+},
+{
+			Name: "Itarsi",
+x:1392,
+y:1762
+},
+{
+			Name: "Lashkargah",
+x:1049,
+y:1476
+},
+{
+			Name: "Keonjhar",
+x:1617,
+y:1775
+},
+{
+			Name: "Surada",
+x:1581,
+y:1830
+},
+{
+			Name: "Wardha",
+x:1419,
+y:1811
+},
+{
+			Name: "Dahod",
+x:1317,
+y:1747
+},
+{
+			Name: "Guna",
+x:1390,
+y:1687
+},
+{
+			Name: "Siwan",
+x:1575,
+y:1644
+},
+{
+			Name: "Baran",
+x:1364,
+y:1683
+},
+{
+			Name: "Fujairah",
+x:827,
+y:1674
+},
+{
+			Name: "Morvi",
+x:1232,
+y:1736
+},
+{
+			Name: "Quba",
+x:613,
+y:1133
+},
+{
+			Name: "Thanh Hung",
+x:2142,
+y:1863
+},
+{
+			Name: "Dong Hoi",
+x:2182,
+y:1907
+},
+{
+			Name: "Kon Tum",
+x:2222,
+y:2006
+},
+{
+			Name: "Quang Ngai",
+x:2244,
+y:1982
+},
+{
+			Name: "Waingapu",
+x:2549,
+y:2704
+},
+{
+			Name: "Ternate",
+x:2741,
+y:2402
+},
+{
+			Name: "Manokwari",
+x:2919,
+y:2446
+},
+{
+			Name: "Haka",
+x:1828,
+y:1738
+},
+{
+			Name: "Phuket",
+x:1966,
+y:2176
+},
+{
+			Name: "Jerantut",
+x:2065,
+y:2306
+},
+{
+			Name: "Ma-ei",
+x:1841,
+y:1837
+},
+{
+			Name: "Uchquduq",
+x:1003,
+y:1089
+},
+{
+			Name: "Panowa",
+x:1799,
+y:1782
+},
+{
+			Name: "Kamyaran",
+x:565,
+y:1360
+},
+{
+			Name: "Savonlinna",
+x:83,
+y:293
+},
+{
+			Name: "Mikkeli",
+x:41,
+y:301
+},
+{
+			Name: "Joensuu",
+x:107,
+y:257
+},
+{
+			Name: "Lappeenranta",
+x:66,
+y:332
+},
+{
+			Name: "Smarhon",
+x:15,
+y:625
+},
+{
+			Name: "Nigde",
+x:239,
+y:1250
+},
+{
+			Name: "Kilwa Masoko",
+x:360,
+y:2649
+},
+{
+			Name: "Çanakkale",
+x:28,
+y:1173
+},
+{
+			Name: "Akhisar",
+x:55,
+y:1212
+},
+{
+			Name: "Kastamonu",
+x:213,
+y:1133
+},
+{
+			Name: "Gambela",
+x:235,
+y:2178
+},
+{
+			Name: "Beni",
+x:94,
+y:2416
+},
+{
+			Name: "Shire",
+x:336,
+y:2006
+},
+{
+			Name: "Magole",
+x:310,
+y:2607
+},
+{
+			Name: "Makambako",
+x:244,
+y:2680
+},
+{
+			Name: "Bukoba",
+x:160,
+y:2466
+},
+{
+			Name: "Kazuramimba",
+x:121,
+y:2574
+},
+{
+			Name: "Dembidolo",
+x:248,
+y:2165
+},
+{
+			Name: "Butare",
+x:105,
+y:2497
+},
+{
+			Name: "Muyinga",
+x:125,
+y:2508
+},
+{
+			Name: "Lodwar",
+x:266,
+y:2339
+},
+{
+			Name: "Kitgum",
+x:193,
+y:2328
+},
+{
+			Name: "Kakuma",
+x:244,
+y:2312
+},
+{
+			Name: "Voi",
+x:336,
+y:2517
+},
+{
+			Name: "Mandera",
+x:426,
+y:2310
+},
+{
+			Name: "Wajir",
+x:378,
+y:2374
+},
+{
+			Name: "Rumbek",
+x:103,
+y:2222
+},
+{
+			Name: "Ezo",
+x:50,
+y:2273
+},
+{
+			Name: "Mundri West",
+x:123,
+y:2266
+},
+{
+			Name: "Gogrial",
+x:63,
+y:2171
+},
+{
+			Name: "Kapoeta",
+x:213,
+y:2284
+},
+{
+			Name: "Aweil",
+x:33,
+y:2156
+},
+{
+			Name: "Afder",
+x:459,
+y:2277
+},
+{
+			Name: "Negele Borana",
+x:367,
+y:2264
+},
+{
+			Name: "Egahlou",
+x:459,
+y:2068
+},
+{
+			Name: "Degehabur",
+x:479,
+y:2171
+},
+{
+			Name: "Kebri Dahar",
+x:497,
+y:2224
+},
+{
+			Name: "Garbahare",
+x:440,
+y:2325
+},
+{
+			Name: "Afmadow",
+x:429,
+y:2407
+},
+{
+			Name: "Buuhoodle",
+x:554,
+y:2176
+},
+{
+			Name: "Massawa",
+x:369,
+y:1962
+},
+{
+			Name: "Kaduqli",
+x:107,
+y:2097
+},
+{
+			Name: "En Nahud",
+x:72,
+y:2046
+},
+{
+			Name: "Assab",
+x:451,
+y:2039
+},
+{
+			Name: "Abri",
+x:118,
+y:1797
+},
+{
+			Name: "Giresun",
+x:336,
+y:1148
+},
+{
+			Name: "Dakhla Oasis",
+x:132,
+y:1665
+},
+{
+			Name: "Bawiti",
+x:88,
+y:1571
+},
+{
+			Name: "Marina",
+x:85,
+y:1489
+},
+{
+			Name: "Ras Gharib",
+x:192,
+y:1569
+},
+{
+			Name: "Erzincan",
+x:367,
+y:1186
+},
+{
+			Name: "Siirt",
+x:440,
+y:1250
+},
+{
+			Name: "Kapan",
+x:556,
+y:1206
+},
+{
+			Name: "Lankaran",
+x:624,
+y:1221
+},
+{
+			Name: "Tuguegarao",
+x:2591,
+y:1905
+},
+{
+			Name: "Penampang",
+x:2439,
+y:2253
+},
+{
+			Name: "Bintulu",
+x:2356,
+y:2332
+},
+{
+			Name: "Purwokerto",
+x:2252,
+y:2640
+},
+{
+			Name: "Merauke",
+x:3088,
+y:2669
+},
+{
+			Name: "Alotau",
+x:3361,
+y:2724
+},
+{
+			Name: "Madang",
+x:3236,
+y:2574
+},
+{
+			Name: "Daru",
+x:3168,
+y:2686
+},
+{
+			Name: "Kavieng",
+x:3374,
+y:2501
+},
+{
+			Name: "Timika",
+x:2996,
+y:2556
+},
+{
+			Name: "Nabire",
+x:2961,
+y:2521
+},
+{
+			Name: "Sintang",
+x:2310,
+y:2420
+},
+{
+			Name: "Yamaguchi",
+x:2855,
+y:1382
+},
+{
+			Name: "Lhokseumawe",
+x:1927,
+y:2273
+},
+{
+			Name: "Meulaboh",
+x:1918,
+y:2314
+},
+{
+			Name: "Sibolga",
+x:1975,
+y:2378
+},
+{
+			Name: "Kofu",
+x:3042,
+y:1331
+},
+{
+			Name: "Nikko",
+x:3073,
+y:1296
+},
+{
+			Name: "Metro",
+x:2147,
+y:2567
+},
+{
+			Name: "Obihiro",
+x:3168,
+y:1080
+},
+{
+			Name: "Kitami",
+x:3190,
+y:1052
+},
+{
+			Name: "Hanamaki",
+x:3115,
+y:1208
+},
+{
+			Name: "Matsue",
+x:2897,
+y:1340
+},
+{
+			Name: "Tanabe",
+x:2961,
+y:1397
+},
+{
+			Name: "Gujo",
+x:3003,
+y:1329
+},
+{
+			Name: "Alicia",
+x:2591,
+y:1929
+},
+{
+			Name: "Rizal",
+x:2578,
+y:1960
+},
+{
+			Name: "Calapan",
+x:2580,
+y:2031
+},
+{
+			Name: "Kashmar",
+x:880,
+y:1344
+},
+{
+			Name: "Semnan",
+x:743,
+y:1335
+},
+{
+			Name: "Borujerd",
+x:618,
+y:1395
+},
+{
+			Name: "Minab",
+x:847,
+y:1608
+},
+{
+			Name: "Iranshahr",
+x:941,
+y:1606
+},
+{
+			Name: "Yasuj",
+x:699,
+y:1500
+},
+{
+			Name: "Izeh",
+x:649,
+y:1459
+},
+{
+			Name: "Chabahar",
+x:946,
+y:1661
+},
+{
+			Name: "Birjand",
+x:899,
+y:1426
+},
+{
+			Name: "Shahrud",
+x:785,
+y:1309
+},
+{
+			Name: "Meshginshahr",
+x:587,
+y:1228
+},
+{
+			Name: "Miandoab",
+x:543,
+y:1289
+},
+{
+			Name: "Haditha",
+x:444,
+y:1375
+},
+{
+			Name: "Alexandroupoli",
+x:2,
+y:1148
+},
+{
+			Name: "Çankırı",
+x:211,
+y:1159
+},
+{
+			Name: "Sinjar",
+x:433,
+y:1302
+},
+{
+			Name: "Rafha",
+x:477,
+y:1520
+},
+{
+			Name: "Shirvan",
+x:622,
+y:1181
+},
+{
+			Name: "Akhalkalaki",
+x:479,
+y:1129
+},
+{
+			Name: "As-Suwayda",
+x:299,
+y:1423
+},
+{
+			Name: "Hasakah",
+x:404,
+y:1296
+},
+{
+			Name: "Agri",
+x:464,
+y:1188
+},
+{
+			Name: "Kars",
+x:466,
+y:1157
+},
+{
+			Name: "Bodrum",
+x:50,
+y:1278
+},
+{
+			Name: "Sorgun",
+x:253,
+y:1186
+},
+{
+			Name: "Merzifon",
+x:257,
+y:1151
+},
+{
+			Name: "Weno",
+x:3394,
+y:2202
+},
+{
+			Name: "Colonia",
+x:3016,
+y:2138
+},
+{
+			Name: "Noriti",
+x:4373,
+y:2567
+},
+{
+			Name: "Lakina",
+x:4052,
+y:2600
+},
+{
+			Name: "Artvin",
+x:435,
+y:1140
+},
+{
+			Name: "Tulcea",
+x:81,
+y:997
+},
+{
+			Name: "Izmail",
+x:83,
+y:988
+},
+{
+			Name: "Dobrich",
+x:57,
+y:1054
+},
+{
+			Name: "Sliven",
+x:17,
+y:1087
+},
+{
+			Name: "Smiltene",
+x:8,
+y:493
+},
+{
+			Name: "Pai",
+x:1955,
+y:1850
+},
+{
+			Name: "Phonsavan",
+x:2085,
+y:1852
+},
+{
+			Name: "Pleiku",
+x:2213,
+y:2015
+},
+{
+			Name: "Long Lama",
+x:2404,
+y:2306
+},
+{
+			Name: "Manna",
+x:2081,
+y:2552
+},
+{
+			Name: "Gorontalo",
+x:2631,
+y:2409
+},
+{
+			Name: "Sandakan",
+x:2483,
+y:2255
+},
+{
+			Name: "Ende",
+x:2571,
+y:2680
+},
+{
+			Name: "Palu",
+x:2536,
+y:2449
+},
+{
+			Name: "Bima",
+x:2503,
+y:2666
+},
+{
+			Name: "Palopo",
+x:2552,
+y:2504
+},
+{
+			Name: "Pare-Pare",
+x:2532,
+y:2532
+},
+{
+			Name: "Painan",
+x:2028,
+y:2473
+},
+{
+			Name: "Jepara",
+x:2290,
+y:2618
+},
+{
+			Name: "Tuban",
+x:2323,
+y:2625
+},
+{
+			Name: "Ben Tre",
+x:2180,
+y:2121
+},
+{
+			Name: "Ban Dong",
+x:2004,
+y:1879
+},
+{
+			Name: "Tagbilaran",
+x:451,
+y:2134
+},
+{
+			Name: "Masbate",
+x:2640,
+y:2057
+},
+{
+			Name: "Legazpi",
+x:2642,
+y:2037
+},
+{
+			Name: "Caluula",
+x:679,
+y:1969
+},
+{
+			Name: "Myohaung",
+x:1819,
+y:1813
+},
+{
+			Name: "Khasab",
+x:827,
+y:1639
+},
+{
+			Name: "Mardin",
+x:409,
+y:1267
+},
+{
+			Name: "Mus",
+x:435,
+y:1225
+},
+{
+			Name: "Bingol",
+x:404,
+y:1217
+},
+{
+			Name: "Sarab",
+x:587,
+y:1256
+},
+{
+			Name: "Eilat",
+x:250,
+y:1533
+},
+{
+			Name: "Kahramanmaras",
+x:301,
+y:1250
+},
+{
+			Name: "Mytilene",
+x:24,
+y:1210
+},
+{
+			Name: "Aydın",
+x:66,
+y:1261
+},
+{
+			Name: "Anamur",
+x:191,
+y:1307
+},
+{
+			Name: "Karaman",
+x:200,
+y:1272
+},
+{
+			Name: "Bayingolin",
+x:1625,
+y:1120
+},
+{
+			Name: "Serhetabat",
+x:987,
+y:1346
+},
+{
+			Name: "Maralbexi",
+x:1421,
+y:1186
+},
+{
+			Name: "Hami",
+x:1823,
+y:1082
+},
+{
+			Name: "Turpan",
+x:1707,
+y:1078
+},
+{
+			Name: "Bhamo",
+x:1927,
+y:1701
+},
+{
+			Name: "Altay",
+x:1678,
+y:895
+},
+{
+			Name: "Karamay",
+x:1592,
+y:979
+},
+{
+			Name: "Garzê",
+x:2054,
+y:1522
+},
+{
+			Name: "Sanya",
+x:2259,
+y:1877
+},
+{
+			Name: "Chuxiong",
+x:2041,
+y:1679
+},
+{
+			Name: "Panzhihua",
+x:2048,
+y:1632
+},
+{
+			Name: "Lashio",
+x:1933,
+y:1740
+},
+{
+			Name: "Wuhai",
+x:2197,
+y:1197
+},
+{
+			Name: "Enshi",
+x:2261,
+y:1503
+},
+{
+			Name: "Tongchon County",
+x:2765,
+y:1230
+},
+{
+			Name: "Heshigten Banner",
+x:2479,
+y:1067
+},
+{
+			Name: "Khorugh",
+x:1240,
+y:1261
+},
+{
+			Name: "Tuchengzhen",
+x:2453,
+y:1137
+},
+{
+			Name: "Jalal-Abad",
+x:1265,
+y:1142
+},
+{
+			Name: "Tezpur",
+x:1806,
+y:1628
+},
+{
+			Name: "Atimonan",
+x:2596,
+y:2009
+},
+{
+			Name: "Igdır",
+x:497,
+y:1186
+},
+{
+			Name: "Tatvan",
+x:451,
+y:1223
+},
+{
+			Name: "Mayadin",
+x:391,
+y:1349
+},
+{
+			Name: "Al-Maʿarra",
+x:308,
+y:1316
+},
+{
+			Name: "Hakkari",
+x:497,
+y:1261
+},
+{
+			Name: "Adiyaman",
+x:347,
+y:1254
+},
+{
+			Name: "Nizip",
+x:330,
+y:1278
+},
+{
+			Name: "Kobani",
+x:341,
+y:1285
+},
+{
+			Name: "Al-Thawrah",
+x:352,
+y:1316
+},
+{
+			Name: "Sinop",
+x:255,
+y:1111
+},
+{
+			Name: "Cide",
+x:189,
+y:1122
+},
+{
+			Name: "Fethiye",
+x:99,
+y:1298
+},
+{
+			Name: "Kozan",
+x:270,
+y:1267
+},
+{
+			Name: "Neapolis",
+x:246,
+y:1234
+},
+{
+			Name: "Gerze",
+x:259,
+y:1120
+},
+{
+			Name: "Mersing",
+x:2103,
+y:2354
+},
+{
+			Name: "Balaghat",
+x:1476,
+y:1778
+},
+{
+			Name: "Hoshangabad",
+x:1421,
+y:1745
+},
+{
+			Name: "Barisal",
+x:1740,
+y:1749
+},
+{
+			Name: "Naryn",
+x:1359,
+y:1135
+},
+{
+			Name: "Ratnagiri",
+x:1287,
+y:1921
+},
+{
+			Name: "Panaji",
+x:1300,
+y:1965
+},
+{
+			Name: "Kurnool",
+x:1408,
+y:1958
+},
+{
+			Name: "Kankavali",
+x:1298,
+y:1942
+},
+{
+			Name: "Karwar",
+x:1313,
+y:1987
+},
+{
+			Name: "Karakol",
+x:1419,
+y:1093
+},
+{
+			Name: "Zarafshan",
+x:1020,
+y:1120
+},
+{
+			Name: "Balkhash",
+x:1324,
+y:928
+},
+{
+			Name: "Jezkazgan",
+x:1128,
+y:898
+},
+{
+			Name: "Sanghar",
+x:1172,
+y:1639
+},
+{
+			Name: "Manali",
+x:1377,
+y:1448
+},
+{
+			Name: "Merki",
+x:1276,
+y:1078
+},
+{
+			Name: "Baikonur",
+x:1007,
+y:981
+},
+{
+			Name: "Zyryanovsk",
+x:1577,
+y:821
+},
+{
+			Name: "Ayagoz",
+x:1474,
+y:893
+},
+{
+			Name: "Shalkar",
+x:910,
+y:895
+},
+{
+			Name: "Kulsary",
+x:763,
+y:926
+},
+{
+			Name: "Beyneu",
+x:792,
+y:992
+},
+{
+			Name: "Aral",
+x:965,
+y:935
+},
+{
+			Name: "Aksay",
+x:732,
+y:761
+},
+{
+			Name: "Maymana",
+x:1047,
+y:1324
+},
+{
+			Name: "Arkalyk",
+x:1111,
+y:794
+},
+{
+			Name: "Zhetikara",
+x:954,
+y:719
+},
+{
+			Name: "Qalati Ghilji",
+x:1106,
+y:1452
+},
+{
+			Name: "Wadh",
+x:1091,
+y:1606
+},
+{
+			Name: "Turbat",
+x:1001,
+y:1648
+},
+{
+			Name: "Panjgur",
+x:1031,
+y:1617
+},
+{
+			Name: "Taftan",
+x:968,
+y:1553
+},
+{
+			Name: "Qila Ladgasht",
+x:1003,
+y:1591
+},
+{
+			Name: "Zaranj",
+x:974,
+y:1489
+},
+{
+			Name: "Türkmenbaşy",
+x:745,
+y:1179
+},
+{
+			Name: "Farah",
+x:983,
+y:1441
+},
+{
+			Name: "Tejen",
+x:935,
+y:1272
+},
+{
+			Name: "Mary",
+x:972,
+y:1263
+},
+{
+			Name: "Sa'dah",
+x:484,
+y:1921
+},
+{
+			Name: "Haradh",
+x:622,
+y:1698
+},
+{
+			Name: "Al Batha",
+x:688,
+y:1698
+},
+{
+			Name: "As Sulayyil",
+x:530,
+y:1813
+},
+{
+			Name: "Layla",
+x:561,
+y:1758
+},
+{
+			Name: "Afif",
+x:459,
+y:1705
+},
+{
+			Name: "Tayma",
+x:341,
+y:1586
+},
+{
+			Name: "Al Majmaah",
+x:525,
+y:1641
+},
+{
+			Name: "Khafji",
+x:613,
+y:1577
+},
+{
+			Name: "Al Wajh",
+x:294,
+y:1637
+},
+{
+			Name: "Duba",
+x:270,
+y:1591
+},
+{
+			Name: "Ruwais",
+x:730,
+y:1703
+},
+{
+			Name: "El Tor",
+x:213,
+y:1566
+},
+{
+			Name: "Ma'an",
+x:268,
+y:1505
+},
+{
+			Name: "Dhamar",
+x:503,
+y:1991
+},
+{
+			Name: "Ataq",
+x:569,
+y:1989
+},
+{
+			Name: "Pyay",
+x:1867,
+y:1870
+},
+{
+			Name: "Dazhou",
+x:2228,
+y:1476
+},
+{
+			Name: "Tarim",
+x:629,
+y:1947
+},
+{
+			Name: "Pyu",
+x:1903,
+y:1874
+},
+{
+			Name: "Dibrugarh",
+x:1866,
+y:1599
+},
+{
+			Name: "Dimapur",
+x:1830,
+y:1654
+},
+{
+			Name: "Chowmuhani",
+x:1762,
+y:1742
+},
+{
+			Name: "Khon Kaen",
+x:2074,
+y:1943
+},
+{
+			Name: "Sakon Nakhon",
+x:2109,
+y:1918
+},
+{
+			Name: "Udon Thani",
+x:2074,
+y:1914
+},
+{
+			Name: "Phitsanulok",
+x:2013,
+y:1934
+},
+{
+			Name: "Kanchanaburi",
+x:1988,
+y:2006
+},
+{
+			Name: "Chumphon",
+x:1984,
+y:2110
+},
+{
+			Name: "Nakhon Si Thammarat",
+x:2002,
+y:2174
+},
+{
+			Name: "Trang",
+x:1993,
+y:2204
+},
+{
+			Name: "Pakxe",
+x:2158,
+y:1982
+},
+{
+			Name: "Kampong Cham",
+x:2149,
+y:2072
+},
+{
+			Name: "Cam Pha",
+x:2197,
+y:1795
+},
+{
+			Name: "Cao Bang",
+x:2167,
+y:1751
+},
+{
+			Name: "Lao Cai",
+x:2107,
+y:1760
+},
+{
+			Name: "Shaki",
+x:574,
+y:1137
+},
+{
+			Name: "Gyumri",
+x:495,
+y:1153
+},
+{
+			Name: "Maykop",
+x:389,
+y:1021
+},
+{
+			Name: "Kasomeno",
+x:63,
+y:2732
+},
+{
+			Name: "Manono",
+x:41,
+y:2631
+},
+{
+			Name: "Pepa",
+x:107,
+y:2644
+},
+{
+			Name: "Kamituga",
+x:48,
+y:2530
+},
+{
+			Name: "Angul",
+x:1599,
+y:1806
+},
+{
+			Name: "Jaisalmer",
+x:1216,
+y:1619
+},
+{
+			Name: "Badin",
+x:1159,
+y:1690
+},
+{
+			Name: "Palanpur",
+x:1256,
+y:1703
+},
+{
+			Name: "Dumka",
+x:1650,
+y:1698
+},
+{
+			Name: "Kishanganj",
+x:1669,
+y:1648
+},
+{
+			Name: "Pakur",
+x:1674,
+y:1686
+},
+{
+			Name: "Balangir",
+x:1555,
+y:1811
+},
+{
+			Name: "Balasore",
+x:1647,
+y:1784
+},
+{
+			Name: "Jaffna",
+x:1467,
+y:2138
+},
+{
+			Name: "Galle",
+x:1476,
+y:2244
+},
+{
+			Name: "Chinsali",
+x:169,
+y:2728
+},
+{
+			Name: "Kaputa",
+x:99,
+y:2673
+},
+{
+			Name: "Al-Hasana",
+x:209,
+y:1498
+},
+{
+			Name: "Taidong",
+x:2578,
+y:1740
+},
+{
+			Name: "Yilan",
+x:2593,
+y:1696
+},
+{
+			Name: "Goseong",
+x:2776,
+y:1245
+},
+{
+			Name: "Kanoya",
+x:2842,
+y:1470
+},
+{
+			Name: "Hoang Mai",
+x:2158,
+y:1866
+},
+{
+			Name: "Sanming",
+x:2486,
+y:1643
+},
+{
+			Name: "Ningbo",
+x:2587,
+y:1525
+},
+{
+			Name: "Suining",
+x:2171,
+y:1500
+},
+{
+			Name: "Guangyuan",
+x:2164,
+y:1445
+},
+{
+			Name: "Miyazaki",
+x:2857,
+y:1448
+},
+{
+			Name: "Malkangiri",
+x:1507,
+y:1879
+},
+{
+			Name: "Narayanpur",
+x:1485,
+y:1828
+},
+{
+			Name: "Rajahmundry",
+x:1520,
+y:1912
+},
+{
+			Name: "Khammam",
+x:1476,
+y:1914
+},
+{
+			Name: "Naruto",
+x:2939,
+y:1382
+},
+{
+			Name: "Singrauli",
+x:1526,
+y:1703
+},
+{
+			Name: "Ambikapur",
+x:1548,
+y:1736
+},
+{
+			Name: "Gumla",
+x:1581,
+y:1727
+},
+{
+			Name: "Berhampore",
+x:1678,
+y:1703
+},
+{
+			Name: "Aizuwakamatsu",
+x:3080,
+y:1272
+},
+{
+			Name: "Nagano",
+x:3033,
+y:1300
+},
+{
+			Name: "Fukushima",
+x:3099,
+y:1269
+},
+{
+			Name: "Morioka",
+x:3117,
+y:1195
+},
+{
+			Name: "Kuji",
+x:3132,
+y:1179
+},
+{
+			Name: "Kamaishi",
+x:3135,
+y:1212
+},
+{
+			Name: "Towada",
+x:3121,
+y:1164
+},
+{
+			Name: "Noshiro",
+x:3086,
+y:1181
+},
+{
+			Name: "Koriyama",
+x:3091,
+y:1280
+},
+{
+			Name: "Nagaoka",
+x:3055,
+y:1274
+},
+{
+			Name: "Tateyama",
+x:3082,
+y:1355
+},
+{
+			Name: "Tsuruga",
+x:2981,
+y:1333
+},
+{
+			Name: "Nakatsugawa",
+x:3014,
+y:1340
+},
+{
+			Name: "Suzu",
+x:3011,
+y:1276
+},
+{
+			Name: "Ina",
+x:3031,
+y:1327
+},
+{
+			Name: "Joetsu",
+x:3038,
+y:1283
+},
+{
+			Name: "Yokkaichi",
+x:2994,
+y:1357
+},
+{
+			Name: "Nara",
+x:2974,
+y:1373
+},
+{
+			Name: "Iwata",
+x:3029,
+y:1364
+},
+{
+			Name: "Otsu",
+x:2976,
+y:1353
+},
+{
+			Name: "Kushimoto",
+x:2974,
+y:1404
+},
+{
+			Name: "Pyonggang",
+x:2745,
+y:1241
+},
+{
+			Name: "Maizuru",
+x:2961,
+y:1344
+},
+{
+			Name: "Muroto",
+x:2928,
+y:1408
+},
+{
+			Name: "Taizhong",
+x:2563,
+y:1712
+},
+{
+			Name: "Onomichi",
+x:2899,
+y:1377
+},
+{
+			Name: "Cheorwon",
+x:2754,
+y:1250
+},
+{
+			Name: "Orang",
+x:2807,
+y:1137
+},
+{
+			Name: "Hikari",
+x:2875,
+y:1390
+},
+{
+			Name: "Pujon",
+x:2752,
+y:1166
+},
+{
+			Name: "Anju",
+x:2703,
+y:1199
+},
+{
+			Name: "Kaesong",
+x:2728,
+y:1254
+},
+{
+			Name: "Shostka",
+x:209,
+y:739
+},
+{
+			Name: "Krychaw",
+x:165,
+y:662
+},
+{
+			Name: "Polotsk",
+x:83,
+y:581
+},
+{
+			Name: "Izium",
+x:310,
+y:838
+},
+{
+			Name: "Uman",
+x:123,
+y:865
+},
+{
+			Name: "Pryluky",
+x:182,
+y:792
+},
+{
+			Name: "Pervomaisk",
+x:143,
+y:891
+},
+{
+			Name: "Sarny",
+x:24,
+y:763
+},
+{
+			Name: "Koziatyn",
+x:88,
+y:827
+},
+{
+			Name: "Novohrad Volynskyi",
+x:52,
+y:792
+},
+{
+			Name: "Korosten",
+x:79,
+y:774
+},
+{
+			Name: "Tingri",
+x:1669,
+y:1577
+},
+{
+			Name: "Maniwa",
+x:2917,
+y:1358
+},
+{
+			Name: "Toyone",
+x:3022,
+y:1351
+},
+{
+			Name: "Fuping",
+x:2404,
+y:1219
+},
+{
+			Name: "Dong Ujimqin Qi",
+x:2472,
+y:961
+},
+{
+			Name: "Agsu",
+x:5016,
+y:1162
+},
+{
+			Name: "Sadpara",
+x:1333,
+y:1355
+},
+{
+			Name: "Klyuchi",
+x:3647,
+y:546
+},
+{
+			Name: "Pallasovka",
+x:574,
+y:807
+},
+{
+			Name: "Telavi",
+x:541,
+y:1124
+},
+{
+			Name: "Selitrennoye",
+x:596,
+y:935
+},
+{
+			Name: "Korenovsk",
+x:371,
+y:990
+},
+{
+			Name: "Czornyj Jar",
+x:550,
+y:898
+},
+{
+			Name: "Semyonov",
+x:499,
+y:521
+},
+{
+			Name: "Palana",
+x:3619,
+y:433
+},
+{
+			Name: "Demino",
+x:374,
+y:471
+},
+{
+			Name: "Slautnoye",
+x:3830,
+y:229
+},
+{
+			Name: "Evensk",
+x:3597,
+y:282
+},
+{
+			Name: "Susuman",
+x:3319,
+y:260
+},
+{
+			Name: "Rebi",
+x:2928,
+y:2603
+},
+{
+			Name: "Al-Bahr al-Ahmar",
+x:202,
+y:1650
+},
+{
+			Name: "Sowdari",
+x:63,
+y:1976
+},
+{
+			Name: "Shawira",
+x:303,
+y:2068
+},
+{
+			Name: "Asha Addo",
+x:479,
+y:2099
+},
+{
+			Name: "Abag Qi",
+x:2402,
+y:1014
+},
+{
+			Name: "Surovikino",
+x:468,
+y:869
+},
+{
+			Name: "Ela",
+x:147,
+y:1738
+},
+{
+			Name: "Gerik",
+x:2032,
+y:2270
+},
+{
+			Name: "Lumphat",
+x:2193,
+y:2035
+},
+{
+			Name: "Wang San",
+x:1988,
+y:1951
+},
+{
+			Name: "Quli",
+x:1617,
+y:1553
+},
+{
+			Name: "Demidov",
+x:160,
+y:587
+},
+{
+			Name: "Betty",
+x:123,
+y:1877
+},
+{
+			Name: "Nagibin",
+x:398,
+y:832
+},
+{
+			Name: "Chagoda",
+x:264,
+y:403
+},
+{
+			Name: "Severobaykalsk",
+x:2257,
+y:563
+},
+{
+			Name: "Mugen",
+x:1207,
+y:429
+},
+{
+			Name: "Kodinsk",
+x:2004,
+y:447
+},
+{
+			Name: "Poligus",
+x:1832,
+y:299
+},
+{
+			Name: "Turukhansk",
+x:1680,
+y:90
+},
+{
+			Name: "Bor",
+x:1718,
+y:312
+},
+{
+			Name: "Chirinda",
+x:2024,
+y:53
+},
+{
+			Name: "Vanavara",
+x:2129,
+y:381
+},
+{
+			Name: "Tura",
+x:2171,
+y:189
+},
+{
+			Name: "Novyy Vasyugan",
+x:1346,
+y:471
+},
+{
+			Name: "Sheregesh",
+x:1696,
+y:671
+},
+{
+			Name: "Turan",
+x:1848,
+y:735
+},
+{
+			Name: "Erzinsky",
+x:1865,
+y:785
+},
+{
+			Name: "Onguday",
+x:1632,
+y:766
+},
+{
+			Name: "Kosh Agach",
+x:1698,
+y:810
+},
+{
+			Name: "Chadan",
+x:1784,
+y:746
+},
+{
+			Name: "Karam",
+x:2224,
+y:598
+},
+{
+			Name: "Aykhal",
+x:2316,
+y:121
+},
+{
+			Name: "Arshan",
+x:2065,
+y:726
+},
+{
+			Name: "Vitim",
+x:2371,
+y:442
+},
+{
+			Name: "Zhigansk",
+x:2644,
+y:42
+},
+{
+			Name: "Ayan",
+x:3031,
+y:548
+},
+{
+			Name: "Vilyuysk",
+x:2604,
+y:200
+},
+{
+			Name: "Yunkyur",
+x:2884,
+y:92
+},
+{
+			Name: "Ust Nera",
+x:3179,
+y:196
+},
+{
+			Name: "Kutana",
+x:2860,
+y:429
+},
+{
+			Name: "Eldikan",
+x:2956,
+y:343
+},
+{
+			Name: "Khani",
+x:2549,
+y:504
+},
+{
+			Name: "Fevralsk",
+x:2838,
+y:713
+},
+{
+			Name: "Chumikan",
+x:2954,
+y:620
+},
+{
+			Name: "Mogocha",
+x:2541,
+y:651
+},
+{
+			Name: "Magdagachi",
+x:2699,
+y:667
+},
+{
+			Name: "Nikolayevsk on Amur",
+x:3095,
+y:680
+},
+{
+			Name: "Dudi",
+x:3091,
+y:733
+},
+{
+			Name: "Zakamensk",
+x:2090,
+y:792
+},
+{
+			Name: "Okha",
+x:3161,
+y:667
+},
+{
+			Name: "Bikin",
+x:2928,
+y:942
+},
+{
+			Name: "Lesozavodsk",
+x:2904,
+y:992
+},
+{
+			Name: "Vuktyl",
+x:855,
+y:172
+},
+{
+			Name: "Taksimo",
+x:2420,
+y:557
+},
+{
+			Name: "Chernyshevsk",
+x:2464,
+y:695
+},
+{
+			Name: "Muzhi",
+x:1049,
+y:108
+},
+{
+			Name: "Neya",
+x:490,
+y:444
+},
+{
+			Name: "Kargopol",
+x:352,
+y:312
+},
+{
+			Name: "Mezen",
+x:497,
+y:88
+},
+{
+			Name: "Bereznik",
+x:451,
+y:249
+},
+{
+			Name: "Pudozh",
+x:303,
+y:290
+},
+{
+			Name: "Vytegra",
+x:279,
+y:334
+},
+{
+			Name: "Sosnovka",
+x:418,
+y:40
+},
+{
+			Name: "Muyezersky",
+x:154,
+y:185
+},
+{
+			Name: "Podporozhye",
+x:231,
+y:332
+},
+{
+			Name: "Sortavala",
+x:140,
+y:293
+},
+{
+			Name: "Maloshuyka",
+x:312,
+y:191
+},
+{
+			Name: "Zarechensk",
+x:154,
+y:44
+},
+{
+			Name: "Alakurtti",
+x:121,
+y:26
+},
+{
+			Name: "Kem",
+x:235,
+y:128
+},
+{
+			Name: "Varzuga",
+x:286,
+y:55
+},
+{
+			Name: "Ushki Bay",
+x:3247,
+y:418
+},
+{
+			Name: "Zyryanka",
+x:3366,
+y:106
+},
+{
+			Name: "Seymchan",
+x:3440,
+y:220
+},
+{
+			Name: "Anadyr",
+x:4098,
+y:178
+},
+{
+			Name: "Tilichiki",
+x:3773,
+y:363
+},
+{
+			Name: "Toropets",
+x:160,
+y:537
+},
+{
+			Name: "Lebedyan",
+x:358,
+y:682
+},
+{
+			Name: "Nevel",
+x:110,
+y:552
+},
+{
+			Name: "Ostrov",
+x:68,
+y:504
+},
+{
+			Name: "Priozersk",
+x:123,
+y:330
+},
+{
+			Name: "Kirsanov",
+x:446,
+y:704
+},
+{
+			Name: "Lagan",
+x:583,
+y:986
+},
+{
+			Name: "Talovka",
+x:561,
+y:1034
+},
+{
+			Name: "Akhty",
+x:589,
+y:1129
+},
+{
+			Name: "Yadong",
+x:1707,
+y:1591
+},
+{
+			Name: "Golog",
+x:2019,
+y:1373
+},
+{
+			Name: "Ruoqiang",
+x:1746,
+y:1239
+},
+{
+			Name: "Zereg",
+x:1806,
+y:924
+},
+{
+			Name: "Ejin",
+x:2028,
+y:1113
+},
+{
+			Name: "Taxkorgan",
+x:1328,
+y:1252
+},
+{
+			Name: "Teshig",
+x:2065,
+y:818
+},
+{
+			Name: "Ulaan Uul",
+x:1980,
+y:779
+},
+{
+			Name: "Uliastai",
+x:1916,
+y:900
+},
+{
+			Name: "Uyench",
+x:1782,
+y:961
+},
+{
+			Name: "Tsetserleg",
+x:2039,
+y:909
+},
+{
+			Name: "Erdene",
+x:1938,
+y:997
+},
+{
+			Name: "Kedarnath",
+x:1434,
+y:1494
+},
+{
+			Name: "Mandalgovi",
+x:2169,
+y:975
+},
+{
+			Name: "Öndörkhaan",
+x:2288,
+y:915
+},
+{
+			Name: "Matad",
+x:2413,
+y:928
+},
+{
+			Name: "Ziak",
+x:1225,
+y:1311
+},
+{
+			Name: "Zhob",
+x:1170,
+y:1478
+},
+{
+			Name: "Voru",
+x:37,
+y:473
+},
+{
+			Name: "Ranua",
+x:26,
+y:77
+},
+{
+			Name: "Kuusamo",
+x:94,
+y:77
+},
+{
+			Name: "Kuhmo",
+x:101,
+y:178
+},
+{
+			Name: "Lipe",
+x:3775,
+y:2715
+},
+{
+			Name: "Pastavy",
+x:37,
+y:601
+},
+{
+			Name: "Karima",
+x:169,
+y:1868
+},
+{
+			Name: "Lubutu",
+x:19,
+y:2451
+},
+{
+			Name: "Say-Otes",
+x:756,
+y:1025
+},
+{
+			Name: "Embi",
+x:871,
+y:858
+},
+{
+			Name: "Karatobe",
+x:745,
+y:821
+},
+{
+			Name: "Zhanbay",
+x:677,
+y:922
+},
+{
+			Name: "Inderbor",
+x:695,
+y:867
+},
+{
+			Name: "Yrgyz",
+x:957,
+y:860
+},
+{
+			Name: "Kaztal",
+x:618,
+y:827
+},
+{
+			Name: "Chaghcharan",
+x:1064,
+y:1371
+},
+{
+			Name: "Panjab",
+x:1115,
+y:1373
+},
+{
+			Name: "Bela",
+x:1093,
+y:1646
+},
+{
+			Name: "Gizab",
+x:1089,
+y:1408
+},
+{
+			Name: "Turov",
+x:57,
+y:730
+},
+{
+			Name: "Okny",
+x:112,
+y:909
+},
+{
+			Name: "Yampil",
+x:72,
+y:882
+},
+{
+			Name: "Serhetabat",
+x:987,
+y:1346
+},
+{
+			Name: "Murghab",
+x:1298,
+y:1245
+},
+{
+			Name: "Khalkhgol",
+x:2505,
+y:906
+},
+{
+			Name: "Kyrkkyz",
+x:871,
+y:1069
+},
+{
+			Name: "Baetov",
+x:1326,
+y:1140
+},
+{
+			Name: "Uchtepa",
+x:1082,
+y:1124
+},
+{
+			Name: "Mo‘ynoq",
+x:902,
+y:1052
+},
+{
+			Name: "Rudbar",
+x:990,
+y:1518
+},
+{
+			Name: "Jasliq",
+x:851,
+y:1034
+},
+{
+			Name: "Tasty",
+x:1170,
+y:1010
+},
+{
+			Name: "Koskol",
+x:1062,
+y:895
+},
+{
+			Name: "Taikonur",
+x:1113,
+y:994
+},
+{
+			Name: "Sarkand",
+x:1460,
+y:988
+},
+{
+			Name: "Urzhar",
+x:1504,
+y:926
+},
+{
+			Name: "Karateren",
+x:948,
+y:964
+},
+{
+			Name: "Shorawak",
+x:1086,
+y:1514
+},
+{
+			Name: "Gazojak",
+x:961,
+y:1142
+},
+{
+			Name: "Akshimrau",
+x:732,
+y:1005
+},
+{
+			Name: "Magdanly",
+x:1086,
+y:1258
+},
+{
+			Name: "Thabhloten",
+x:761,
+y:1833
+},
+{
+			Name: "Derweze",
+x:884,
+y:1186
+},
+{
+			Name: "Garrygala",
+x:820,
+y:1234
+},
+{
+			Name: "Ash Shalfa",
+x:644,
+y:1764
+},
+{
+			Name: "Al Kharkhir",
+x:671,
+y:1863
+},
+{
+			Name: "Al Hait",
+x:393,
+y:1635
+},
+{
+			Name: "Abayt",
+x:360,
+y:1569
+},
+{
+			Name: "Linah",
+x:481,
+y:1560
+},
+{
+			Name: "Rawdat Habbas",
+x:495,
+y:1544
+},
+{
+			Name: "Shaybah",
+x:761,
+y:1751
+},
+{
+			Name: "Hamim",
+x:767,
+y:1738
+},
+{
+			Name: "Fahud",
+x:831,
+y:1753
+},
+{
+			Name: "Shalim",
+x:807,
+y:1885
+},
+{
+			Name: "Haima",
+x:822,
+y:1828
+},
+{
+			Name: "Adam",
+x:858,
+y:1756
+},
+{
+			Name: "Al-Mazyunah",
+x:728,
+y:1894
+},
+{
+			Name: "Nabarangpur",
+x:1531,
+y:1857
+},
+{
+			Name: "Ghalat",
+x:895,
+y:1795
+},
+{
+			Name: "Balhaf",
+x:607,
+y:2009
+},
+{
+			Name: "Ma'rib",
+x:525,
+y:1962
+},
+{
+			Name: "Dammaj",
+x:571,
+y:1925
+},
+{
+			Name: "Al Ghaydah",
+x:719,
+y:1943
+},
+{
+			Name: "Kapoko",
+x:171,
+y:2717
+},
+{
+			Name: "Thamud",
+x:653,
+y:1907
+},
+{
+			Name: "Simikot",
+x:1515,
+y:1529
+},
+{
+			Name: "Jiri",
+x:1628,
+y:1602
+},
+{
+			Name: "Ilungu",
+x:204,
+y:2642
+},
+{
+			Name: "Baego",
+x:11,
+y:2398
+},
+{
+			Name: "Amde Work",
+x:352,
+y:2046
+},
+{
+			Name: "Itigi",
+x:235,
+y:2592
+},
+{
+			Name: "Yirol",
+x:123,
+y:2226
+},
+{
+			Name: "Loiyangalani",
+x:299,
+y:2343
+},
+{
+			Name: "Hola",
+x:382,
+y:2471
+},
+{
+			Name: "Marsabit",
+x:330,
+y:2354
+},
+{
+			Name: "Pibor",
+x:195,
+y:2235
+},
+{
+			Name: "Leer",
+x:118,
+y:2176
+},
+{
+			Name: "Obo",
+x:17,
+y:2266
+},
+{
+			Name: "Mega",
+x:341,
+y:2308
+},
+{
+			Name: "Seru",
+x:396,
+y:2191
+},
+{
+			Name: "Bekoji",
+x:360,
+y:2209
+},
+{
+			Name: "Kelafo",
+x:495,
+y:2257
+},
+{
+			Name: "Tepi",
+x:255,
+y:2209
+},
+{
+			Name: "Debre Zeyit",
+x:270,
+y:2112
+},
+{
+			Name: "Elidar",
+x:433,
+y:2066
+},
+{
+			Name: "Asaita",
+x:420,
+y:2081
+},
+{
+			Name: "Hobyo",
+x:604,
+y:2270
+},
+{
+			Name: "Werder",
+x:536,
+y:2213
+},
+{
+			Name: "Tawfiiq",
+x:626,
+y:2222
+},
+{
+			Name: "Eyl",
+x:651,
+y:2182
+},
+{
+			Name: "Magrur",
+x:147,
+y:1956
+},
+{
+			Name: "Agordat",
+x:325,
+y:1960
+},
+{
+			Name: "Edd",
+x:424,
+y:2006
+},
+{
+			Name: "Ad Dumayriyah",
+x:391,
+y:1712
+},
+{
+			Name: "Gassan",
+x:543,
+y:1412
+},
+{
+			Name: "Oltu",
+x:437,
+y:1166
+},
+{
+			Name: "Asrijja",
+x:341,
+y:1338
+},
+{
+			Name: "Regabiyah",
+x:435,
+y:1745
+},
+{
+			Name: "Al Minkhali",
+x:545,
+y:1888
+},
+{
+			Name: "Ranyah",
+x:477,
+y:1778
+},
+{
+			Name: "Khurais",
+x:596,
+y:1670
+},
+{
+			Name: "Qbah",
+x:492,
+y:1599
+},
+{
+			Name: "Judah",
+x:620,
+y:1648
+},
+{
+			Name: "Udhailiyah",
+x:640,
+y:1676
+},
+{
+			Name: "Ar Ruwaidhah",
+x:534,
+y:1703
+},
+{
+			Name: "Mahd Al Thahab",
+x:420,
+y:1716
+},
+{
+			Name: "Kuhdasht",
+x:585,
+y:1412
+},
+{
+			Name: "Koschagyl",
+x:754,
+y:935
+},
+{
+			Name: "Kevron",
+x:1199,
+y:1214
+},
+{
+			Name: "Taftan",
+x:904,
+y:1577
+},
+{
+			Name: "Shahdad",
+x:864,
+y:1507
+},
+{
+			Name: "Biyarjomand",
+x:820,
+y:1318
+},
+{
+			Name: "Khunzakh",
+x:563,
+y:1104
+},
+{
+			Name: "Zayu",
+x:1936,
+y:1564
+},
+{
+			Name: "Dulan",
+x:1942,
+y:1294
+},
+{
+			Name: "Gorshechnoye",
+x:330,
+y:752
+},
+{
+			Name: "Tuma",
+x:398,
+y:592
+},
+{
+			Name: "Alxa Zuoqi",
+x:2149,
+y:1203
+},
+{
+			Name: "Baxoi",
+x:1900,
+y:1498
+},
+{
+			Name: "Tsogttsetsii",
+x:2142,
+y:1065
+},
+{
+			Name: "Yuxian",
+x:2406,
+y:1203
+},
+{
+			Name: "Hengshui",
+x:2424,
+y:1276
+},
+{
+			Name: "Dezhou",
+x:2437,
+y:1285
+},
+{
+			Name: "Zadoi",
+x:1892,
+y:1419
+},
+{
+			Name: "Kusaiwdww",
+x:1784,
+y:1342
+},
+{
+			Name: "Uki",
+x:1691,
+y:1291
+},
+{
+			Name: "Zoige",
+x:2087,
+y:1408
+},
+{
+			Name: "Meegowa",
+x:323,
+y:1525
+},
+{
+			Name: "Padang",
+x:2624,
+y:2440
+},
+{
+			Name: "Berapi",
+x:2919,
+y:2515
+},
+{
+			Name: "Ban Phone",
+x:2180,
+y:1973
+},
+{
+			Name: "Phin",
+x:2156,
+y:1945
+},
+{
+			Name: "Kawa",
+x:145,
+y:1868
+},
+{
+			Name: "Al-Bahr Al-Ahmar",
+x:178,
+y:1767
+},
+{
+			Name: "Abu Hamad",
+x:209,
+y:1822
+},
+{
+			Name: "Molmo",
+x:3130,
+y:2528
+},
+{
+			Name: "Krong Preah Vihear",
+x:2129,
+y:2011
+},
+{
+			Name: "Berapi",
+x:2318,
+y:2493
+},
+{
+			Name: "Asem",
+x:2358,
+y:2468
+},
+{
+			Name: "Zanda",
+x:1482,
+y:1496
+},
+{
+			Name: "Wasiri",
+x:2721,
+y:2647
+},
+{
+			Name: "Karakiya",
+x:745,
+y:1091
+},
+{
+			Name: "Balige",
+x:1993,
+y:2365
+},
+{
+			Name: "Merbau",
+x:2074,
+y:2396
+},
+{
+			Name: "Betung",
+x:2090,
+y:2482
+},
+{
+			Name: "Lalang",
+x:2065,
+y:2400
+},
+{
+			Name: "Marang",
+x:2085,
+y:2277
+},
+{
+			Name: "Adazig",
+x:1808,
+y:2086
+},
+{
+			Name: "Al Dabbah",
+x:140,
+y:1896
+},
+{
+			Name: "Nakfa",
+x:341,
+y:1932
+},
+{
+			Name: "Kaukey",
+x:972,
+y:1025
+},
+{
+			Name: "Begimbet",
+x:884,
+y:977
+},
+{
+			Name: "Palmyra",
+x:347,
+y:1390
+},
+{
+			Name: "Kaki",
+x:715,
+y:1562
+},
+{
+			Name: "Ar Rutba",
+x:420,
+y:1417
+},
+{
+			Name: "Halayeb",
+x:300,
+y:1795
+},
+{
+			Name: "Rwaished",
+x:330,
+y:1434
+},
+{
+			Name: "Jafr Sub",
+x:314,
+y:1500
+},
+{
+			Name: "Al Haddar",
+x:530,
+y:1758
+},
+{
+			Name: "Riaa Albekr",
+x:429,
+y:1610
+},
+{
+			Name: "Atbara",
+x:215,
+y:1894
+},
+{
+			Name: "Barentu",
+x:319,
+y:1976
+},
+{
+			Name: "Dongola",
+x:132,
+y:1850
+},
+{
+			Name: "Semera",
+x:409,
+y:2070
+},
+{
+			Name: "Srinagar",
+x:1436,
+y:1514
+},
+{
+			Name: "Abu Hamad",
+x:202,
+y:1841
+},
+{
+			Name: "Ad-Damir",
+x:224,
+y:1901
+},
+{
+			Name: "Hayya",
+x:283,
+y:1879
+},
+{
+			Name: "Hamashkoraib",
+x:297,
+y:1912
+},
+{
+			Name: "Farafra",
+x:57,
+y:1619
+},
+{
+			Name: "Baris",
+x:136,
+y:1690
+},
+{
+			Name: "Abu Minqar",
+x:52,
+y:1637
+},
+{
+			Name: "Barrâmîya",
+x:220,
+y:1676
+},
+{
+			Name: "Hala ib",
+x:288,
+y:1762
+},
+{
+			Name: "Kish",
+x:759,
+y:1617
+},
+{
+			Name: "Tabas",
+x:838,
+y:1401
+},
+{
+			Name: "Nehbandan",
+x:921,
+y:1472
+},
+{
+			Name: "Kahnuj",
+x:864,
+y:1580
+},
+{
+			Name: "Zaboli",
+x:965,
+y:1613
+},
+{
+			Name: "Lar",
+x:770,
+y:1584
+},
+{
+			Name: "Katiet",
+x:1997,
+y:2490
+},
+{
+			Name: "Tangung",
+x:2437,
+y:2321
+},
+{
+			Name: "Mangkul",
+x:2281,
+y:2499
+},
+{
+			Name: "Padang",
+x:2450,
+y:2308
+},
+{
+			Name: "Sebamban",
+x:2422,
+y:2528
+},
+{
+			Name: "Polewali",
+x:2523,
+y:2521
+},
+{
+			Name: "Tiom",
+x:3033,
+y:2534
+},
+{
+			Name: "Agats",
+x:3029,
+y:2583
+},
+{
+			Name: "Jaluit",
+x:3856,
+y:2198
+},
+{
+			Name: "Aitape",
+x:3139,
+y:2515
+},
+{
+			Name: "Buka",
+x:3482,
+y:2592
+},
+{
+			Name: "Kiunga",
+x:3113,
+y:2600
+},
+{
+			Name: "Aiambak",
+x:3108,
+y:2636
+},
+{
+			Name: "Elato",
+x:3216,
+y:2196
+},
+{
+			Name: "Ambunti",
+x:3152,
+y:2545
+},
+{
+			Name: "Balimo",
+x:3157,
+y:2655
+},
+{
+			Name: "Kerema",
+x:3227,
+y:2651
+},
+{
+			Name: "Muting",
+x:3086,
+y:2633
+},
+{
+			Name: "Oksibil",
+x:3093,
+y:2570
+},
+{
+			Name: "Lereh",
+x:3080,
+y:2523
+},
+{
+			Name: "Sikan",
+x:2400,
+y:2460
+},
+{
+			Name: "Siduk",
+x:2274,
+y:2455
+},
+{
+			Name: "Ranai",
+x:2226,
+y:2308
+},
+{
+			Name: "Melak",
+x:2424,
+y:2429
+},
+{
+			Name: "Belaga",
+x:2376,
+y:2345
+},
+{
+			Name: "Lasan",
+x:2411,
+y:2383
+},
+{
+			Name: "Rutba",
+x:387,
+y:1412
+},
+{
+			Name: "Lahat",
+x:2098,
+y:2530
+},
+{
+			Name: "Al-Nukhib",
+x:442,
+y:1443
+},
+{
+			Name: "Al-Shabakah",
+x:479,
+y:1483
+},
+{
+			Name: "Al Salman",
+x:503,
+y:1496
+},
+{
+			Name: "Al Jahra",
+x:591,
+y:1531
+},
+{
+			Name: "Seppa",
+x:1810,
+y:1604
+},
+{
+			Name: "Etalin",
+x:1889,
+y:1562
+},
+{
+			Name: "Paungbyin",
+x:1861,
+y:1701
+},
+{
+			Name: "Tashigang",
+x:1775,
+y:1610
+},
+{
+			Name: "Mong Yang",
+x:1949,
+y:1791
+},
+{
+			Name: "Kyaikto",
+x:1927,
+y:1912
+},
+{
+			Name: "Keng Tung",
+x:1991,
+y:1795
+},
+{
+			Name: "Puta-O",
+x:1929,
+y:1606
+},
+{
+			Name: "Ambrolauri",
+x:470,
+y:1091
+},
+{
+			Name: "Markada",
+x:404,
+y:1322
+},
+{
+			Name: "Yasothon",
+x:2112,
+y:1958
+},
+{
+			Name: "Ban Tom",
+x:2006,
+y:1850
+},
+{
+			Name: "Hatdai",
+x:2041,
+y:1874
+},
+{
+			Name: "Nakai",
+x:2138,
+y:1905
+},
+{
+			Name: "Lak Sao",
+x:2131,
+y:1885
+},
+{
+			Name: "Sam Neua",
+x:2109,
+y:1819
+},
+{
+			Name: "Beylagan",
+x:594,
+y:1186
+},
+
+	],
+	name: Earth
+}

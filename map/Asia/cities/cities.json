@@ -1,0 +1,141 @@
+{
+	cities:
+	[
+		{
+			Name: "Ankara",
+x:193,
+y:1184
+},
+{
+			Name: "Baghdad",
+x:499,
+y:1401
+},
+{
+			Name: "Beijing",
+x:2448,
+y:1192
+},
+{
+			Name: "Cairo",
+x:154,
+y:1514
+},
+{
+			Name: "Damascus",
+x:288,
+y:1397
+},
+{
+			Name: "Hanoi",
+x:2162,
+y:1804
+},
+{
+			Name: "Yerevan",
+x:506,
+y:1175
+},
+{
+			Name: "Baku",
+x:655,
+y:1166
+},
+{
+			Name: "Kiev",
+x:127,
+y:799
+},
+{
+			Name: "Minsk",
+x:52,
+y:653
+},
+{
+			Name: "Moscow",
+x:323,
+y:570
+},
+{
+			Name: "Pyongyang",
+x:2701,
+y:1223
+},
+{
+			Name: "Riyadh",
+x:565,
+y:1685
+},
+{
+			Name: "Seoul",
+x:2734,
+y:1274
+},
+{
+			Name: "Tokyo",
+x:3077,
+y:1338
+},
+{
+			Name: "Kathmandu",
+x:1606,
+y:1595
+},
+{
+			Name: "Naypyidaw",
+x:1896,
+y:1837
+},
+{
+			Name: "Khartoum",
+x:191,
+y:1967
+},
+{
+			Name: "Chisinau",
+x:88,
+y:931
+},
+{
+			Name: "Bucharest",
+x:15,
+y:1027
+},
+{
+			Name: "Tbilisi",
+x:516,
+y:1112
+},
+{
+			Name: "Nicosia",
+x:211,
+y:1349
+},
+{
+			Name: "Nicosia",
+x:215,
+y:1344
+},
+{
+			Name: "Muscat",
+x:882,
+y:1723
+},
+{
+			Name: "Kabul",
+x:1170,
+y:1373
+},
+{
+			Name: "Ashgabat",
+x:877,
+y:1256
+},
+{
+			Name: "Tehran",
+x:690,
+y:1335
+},
+	],
+	name: Earth
+}

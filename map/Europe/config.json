@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "Europe",
+			Author: "Lukasz Jakowski",
+			BackgroundName: "Europe",
+			ContinentsPackage: "Earth6"
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 1787,
+			MapScale: 4,
+			WorldMap: false,
+			Scenario: "1576858905732bbzdrtxo",
+			Wiki: "Europe"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}
